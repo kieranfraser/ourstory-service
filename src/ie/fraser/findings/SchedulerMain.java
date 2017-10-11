@@ -31,7 +31,7 @@ public class SchedulerMain {
         
         Trigger trigger = newTrigger()
                 .startNow()
-                .withSchedule(repeatSecondlyForever(300))
+                .withSchedule(repeatSecondlyForever(3600))
                 .build();
 
         scheduler.scheduleJob(jobDetail, trigger);
