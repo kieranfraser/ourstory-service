@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+<!-- Package and run java -cp "target\classes;target\dependency\*" ie.fraser.findings.SchedulerMain -->
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ie.fraser.findings</groupId>
+  <artifactId>WeAreUsService</artifactId>
+  <name>WeAreUsService</name>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  
+  <properties>
+	<java.version>1.8</java.version>
+	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+    
+  <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-dependency-plugin</artifactId>
+                <version>3.0.2</version>
+                <executions>
+                    <execution>
+                        <id>copy-dependencies</id>
+                        <phase>package</phase>
+                        <goals><goal>copy-dependencies</goal></goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+  <dependencies>
+  	<dependency>
+	  <groupId>com.google.firebase</groupId>
+	  <artifactId>firebase-admin</artifactId>
+	  <version>5.2.0</version>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-text
+	Used for similarity of names - matching name in notification text to user contacts -->
+	<dependency>
+	    <groupId>org.apache.commons</groupId>
+	    <artifactId>commons-text</artifactId>
+	    <version>1.1</version>
+	</dependency>
+	
+	<dependency>
+	  <groupId>org.apache.httpcomponents</groupId>
+	  <artifactId>httpclient</artifactId>
+	  <version>4.3.6</version>
+	</dependency>
+	<dependency>
+	  <groupId>org.apache.httpcomponents</groupId>
+	  <artifactId>httpasyncclient</artifactId>
+	  <version>4.0.2</version>
+	</dependency>
+	<dependency>
+	  <groupId>org.apache.httpcomponents</groupId>
+	  <artifactId>httpmime</artifactId>
+	  <version>4.3.6</version>
+	</dependency>
+	<dependency>
+	  <groupId>org.json</groupId>
+	  <artifactId>json</artifactId>
+	  <version>20140107</version>
+	</dependency>
+	
+	<!-- Used for duckduckgo requests  -->
+	<dependency>
+	    <groupId>com.mashape.unirest</groupId>
+	    <artifactId>unirest-java</artifactId>
+	    <version>1.4.9</version>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/cc.mallet/mallet -->
+	<dependency>
+	    <groupId>cc.mallet</groupId>
+	    <artifactId>mallet</artifactId>
+	    <version>2.0.8</version>
+	</dependency>	
+	
+	<!-- https://mvnrepository.com/artifact/edu.stanford.nlp/stanford-corenlp -->
+	<dependency>
+	    <groupId>edu.stanford.nlp</groupId>
+	    <artifactId>stanford-corenlp</artifactId>
+	    <version>3.5.2</version> <!-- downgrade from 3.8 due to mvn install error -->
+	</dependency> 
+	
+	
+    <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-simple</artifactId>
+        <version>1.6.6</version>
+    </dependency>
+	
+	<dependency>
+	    <groupId>org.quartz-scheduler</groupId>
+	    <artifactId>quartz</artifactId>
+	    <version>2.1.5</version>
+	</dependency>
+	
+	<dependency>
+	    <groupId>com.rabbitmq</groupId>
+	    <artifactId>amqp-client</artifactId>
+	    <version>2.8.2</version>
+	</dependency>
+  </dependencies>
+</project>
