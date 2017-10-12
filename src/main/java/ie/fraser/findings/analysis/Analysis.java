@@ -111,15 +111,19 @@ public class Analysis{
 
 		// Get the people associated with the notification
 		ArrayList<String> names = NERService.getPeopleFromText(classifier, textToCheck);
+		if(names.isEmpty()){
+			FirebaseDatabase.getInstance().getReference("notifications/"+userId+"/"+notification.getId()).removeValue();
+		}
+		else{
+			// Get the keywords from the text
+			ArrayList<String> keywordStrings = KeywordExtractionService.featureExtraction(instanceList, textToCheck);        
 
-		// Get the keywords from the text
-		ArrayList<String> keywordStrings = KeywordExtractionService.featureExtraction(instanceList, textToCheck);        
+			// Get visuals associated with the keywords
+	        ArrayList<KeywordVisual> keywordVisuals = identifyKeywordIconsPixabay(keywordStrings);
 
-		// Get visuals associated with the keywords
-        ArrayList<KeywordVisual> keywordVisuals = identifyKeywordIconsPixabay(keywordStrings);
-
-		// Compare extracted names with user contacts for overlap to create stories
-		compareToUserContacts(userId, notification, names, keywordStrings, keywordVisuals);
+			// Compare extracted names with user contacts for overlap to create stories
+			compareToUserContacts(userId, notification, names, keywordStrings, keywordVisuals);
+		}
 
 	}
 	
