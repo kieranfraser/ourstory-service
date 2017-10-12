@@ -46,7 +46,7 @@ public class WorkerMain {
                 logger.info("Message Received: " + msg);
                 logger.info("Starting work.");
                 
-                doWork();
+                //doWork();
                 
                 
                 
