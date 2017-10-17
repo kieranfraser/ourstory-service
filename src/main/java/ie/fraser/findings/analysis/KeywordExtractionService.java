@@ -1,33 +1,37 @@
 package main.java.ie.fraser.findings.analysis;
 
-import java.io.File;
 import java.util.ArrayList;
-import java.util.regex.Pattern;
+import java.util.Random;
 
-import cc.mallet.pipe.CharSequence2TokenSequence;
-import cc.mallet.pipe.CharSequenceLowercase;
-import cc.mallet.pipe.Pipe;
-import cc.mallet.pipe.SerialPipes;
-import cc.mallet.pipe.TokenSequence2FeatureSequence;
-import cc.mallet.pipe.TokenSequenceRemoveStopwords;
 import cc.mallet.types.Alphabet;
 import cc.mallet.types.Instance;
 import cc.mallet.types.InstanceList;
 
 public class KeywordExtractionService {
 	
+	/**
+	 * Returns extracted features from raw notification text. TODO: improve this! now only random
+	 * @param instanceList
+	 * @param input
+	 * @return
+	 */
 	public static ArrayList<String> featureExtraction(InstanceList instanceList, String input){
-		
+
+		ArrayList<String> features = new ArrayList<String>();
         
         instanceList.addThruPipe(new Instance(input, null, "test instance", null));
 
-		ArrayList<String> features = new ArrayList<String>();
-        //for(String value: instances.get(0).getAlphabet())
         Alphabet alpha =  instanceList.get(0).getAlphabet();
 		for(int i = 0; i<alpha.size(); i++){
 			features.add((String) alpha.lookupObject(i));
 		}
-		return features;
+		
+		ArrayList<String> top6 = new ArrayList<String>();
+		Random rand = new Random();
+		for(int i=0; i<6; i++){
+			top6.add(features.get(rand.nextInt(features.size())));
+		}
+		return top6;
 	}
 
 	

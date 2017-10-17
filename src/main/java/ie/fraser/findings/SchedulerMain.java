@@ -28,10 +28,9 @@ public class SchedulerMain {
         scheduler.start();
 
         JobDetail jobDetail = newJob(HelloJob.class).build();
-        
         Trigger trigger = newTrigger()
                 .startNow()
-                .withSchedule(repeatSecondlyForever(3600))
+                .withSchedule(repeatSecondlyForever(300))
                 .build();
 
         scheduler.scheduleJob(jobDetail, trigger);
@@ -41,10 +40,15 @@ public class SchedulerMain {
         
         @Override
         public void execute(JobExecutionContext jobExecutionContext) throws JobExecutionException {
-            
+        	logger.info("HelloJob");
             try {
+                logger.info("here");
                 Connection connection = factory.newConnection();
+                logger.info("here");
                 Channel channel = connection.createChannel();
+
+                logger.info("here: "+
+                        channel.getChannelNumber());
                 String queueName = "work-queue-1";
                 Map<String, Object> params = new HashMap<String, Object>();
                 params.put("x-ha-policy", "all");
@@ -57,6 +61,7 @@ public class SchedulerMain {
                 connection.close();
             }
             catch (Exception e) {
+            	logger.info("error");
                 logger.error(e.getMessage(), e);
             }
 

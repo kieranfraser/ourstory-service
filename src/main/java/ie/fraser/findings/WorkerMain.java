@@ -1,7 +1,11 @@
 package main.java.ie.fraser.findings;
 
+import java.io.File;
+import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.regex.Pattern;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -16,6 +20,16 @@ import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.QueueingConsumer;
 
+import cc.mallet.pipe.CharSequence2TokenSequence;
+import cc.mallet.pipe.CharSequenceLowercase;
+import cc.mallet.pipe.Pipe;
+import cc.mallet.pipe.SerialPipes;
+import cc.mallet.pipe.TokenSequence2FeatureSequence;
+import cc.mallet.pipe.TokenSequenceRemoveStopwords;
+import cc.mallet.types.InstanceList;
+import edu.stanford.nlp.ie.AbstractSequenceClassifier;
+import edu.stanford.nlp.ie.crf.CRFClassifier;
+import edu.stanford.nlp.ling.CoreLabel;
 import main.java.ie.fraser.findings.analysis.Analysis;
 import main.java.ie.fraser.findings.models.StoryInterceptedNotification;
 import main.java.ie.fraser.findings.utils.FirebaseManager;
@@ -44,12 +58,9 @@ public class WorkerMain {
             if (delivery != null) {
                 String msg = new String(delivery.getBody(), "UTF-8");
                 logger.info("Message Received: " + msg);
-                logger.info("Starting work.");
+                logger.info("Not starting work.");
                 
-                doWork();
-                
-                
-                
+                //doWork();
                 
                 channel.basicAck(delivery.getEnvelope().getDeliveryTag(), false);
             }
@@ -57,38 +68,57 @@ public class WorkerMain {
 
     }
     
-    private static void doWork(){
-
-		final Analysis analysis = new Analysis();
+    /**
+     * Get all pending notifications and analyse for adding stories.
+     * @throws ClassCastException
+     * @throws ClassNotFoundException
+     * @throws IOException
+     */
+    private static void doWork() throws ClassCastException, ClassNotFoundException, IOException{
     	DatabaseReference ref = database.getReference("notifications/");
+    	    	
+    	final AbstractSequenceClassifier<CoreLabel> classifier = CRFClassifier.getClassifier("classifiers/english.all.3class.distsim.crf.ser.gz");
 		
-		ref.addListenerForSingleValueEvent(new ValueEventListener() {
-			
-			@Override
-			public void onDataChange(DataSnapshot snapshot) {
-				int numThreads = 0;
-				for(DataSnapshot userSnapshot: snapshot.getChildren()){
-					final String userId = userSnapshot.getKey();
-					
-					for(DataSnapshot notificationSnapshot: userSnapshot.getChildren()){
-						
-						StoryInterceptedNotification notification = notificationSnapshot.getValue(StoryInterceptedNotification.class);
-					    analysis.run(notification, userId);
-					    numThreads++;
-						
-					}
-					
-				}
-				logger.info(numThreads+" analysis threads started.");
-				
-			}
-			
-			@Override
-			public void onCancelled(DatabaseError error) {
-				// TODO Auto-generated method stub
-				
-			}
-		});
+		ArrayList<Pipe> pipeList = new ArrayList<Pipe>();
+
+        // Pipes: lowercase, tokenize, remove stopwords, map to features
+        pipeList.add( new CharSequenceLowercase() );
+        pipeList.add( new CharSequence2TokenSequence(Pattern.compile("\\p{L}[\\p{L}\\p{P}]+\\p{L}")) );
+        pipeList.add( new TokenSequenceRemoveStopwords(new File("stoplists/en.txt"), "UTF-8", false, false, false) );
+        pipeList.add( new TokenSequence2FeatureSequence() );
+
+        final InstanceList instanceList = new InstanceList (new SerialPipes(pipeList));
+        
+        if(classifier!=null && instanceList!=null){
+        	ref.addListenerForSingleValueEvent(new ValueEventListener() {
+    			
+    			@Override
+    			public void onDataChange(DataSnapshot snapshot) {
+    				int numThreads = 0;
+    				for(DataSnapshot userSnapshot: snapshot.getChildren()){
+    					final String userId = userSnapshot.getKey();
+    					
+    					for(DataSnapshot notificationSnapshot: userSnapshot.getChildren()){
+
+    						StoryInterceptedNotification notification = notificationSnapshot.getValue(StoryInterceptedNotification.class);
+
+    						Analysis analysis = new Analysis(classifier, instanceList, notification, userId);
+    					    analysis.run();
+    					    numThreads++;
+    					}
+    					
+    				}
+    				logger.info(numThreads+" analysis threads started.");
+    			}
+    			
+    			@Override
+    			public void onCancelled(DatabaseError error) {
+    				logger.error("Error getting pending notifications from FireBase");
+    			}
+    		});
+        }
+		
+		
     }
 
 }
