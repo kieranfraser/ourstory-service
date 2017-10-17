@@ -58,9 +58,8 @@ public class WorkerMain {
             if (delivery != null) {
                 String msg = new String(delivery.getBody(), "UTF-8");
                 logger.info("Message Received: " + msg);
-                logger.info("Not starting work.");
                 
-                //doWork();
+                doWork();
                 
                 channel.basicAck(delivery.getEnvelope().getDeliveryTag(), false);
             }
