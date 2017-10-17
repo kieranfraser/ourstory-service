@@ -23,13 +23,8 @@ import com.mashape.unirest.http.Unirest;
 import cc.mallet.types.InstanceList;
 import edu.stanford.nlp.ie.AbstractSequenceClassifier;
 import edu.stanford.nlp.ling.CoreLabel;
-import main.java.ie.fraser.findings.models.CompareContactSimilarity;
-import main.java.ie.fraser.findings.models.KeywordVisual;
-import main.java.ie.fraser.findings.models.Story;
-import main.java.ie.fraser.findings.models.StoryContact;
+import main.java.ie.fraser.findings.models.*;
 import main.java.ie.fraser.findings.models.StoryContact.App;
-import main.java.ie.fraser.findings.models.StoryInterceptedNotification;
-import main.java.ie.fraser.findings.models.StoryUser;
 
 public class Analysis implements Runnable{
 	
