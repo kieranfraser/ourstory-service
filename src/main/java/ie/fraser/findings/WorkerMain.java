@@ -78,17 +78,9 @@ public class WorkerMain {
     	    	
     	final AbstractSequenceClassifier<CoreLabel> classifier = CRFClassifier.getClassifier("classifiers/english.all.3class.distsim.crf.ser.gz");
 		
-		ArrayList<Pipe> pipeList = new ArrayList<Pipe>();
-
-        // Pipes: lowercase, tokenize, remove stopwords, map to features
-        pipeList.add( new CharSequenceLowercase() );
-        pipeList.add( new CharSequence2TokenSequence(Pattern.compile("\\p{L}[\\p{L}\\p{P}]+\\p{L}")) );
-        pipeList.add( new TokenSequenceRemoveStopwords(new File("stoplists/en.txt"), "UTF-8", false, false, false) );
-        pipeList.add( new TokenSequence2FeatureSequence() );
-
-        final InstanceList instanceList = new InstanceList (new SerialPipes(pipeList));
+		
         
-        if(classifier!=null && instanceList!=null){
+        if(classifier!=null){
         	ref.addListenerForSingleValueEvent(new ValueEventListener() {
     			
     			@Override
@@ -101,7 +93,7 @@ public class WorkerMain {
 
     						StoryInterceptedNotification notification = notificationSnapshot.getValue(StoryInterceptedNotification.class);
 
-    						Analysis analysis = new Analysis(classifier, instanceList, notification, userId);
+    						Analysis analysis = new Analysis(classifier, notification, userId);
     					    analysis.run();
     					    numThreads++;
     					}

@@ -1,11 +1,13 @@
 package main.java.ie.fraser.findings.analysis;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.regex.Pattern;
 
 import org.apache.commons.lang3.StringUtils;
 import org.json.JSONArray;
@@ -20,6 +22,12 @@ import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.JsonNode;
 import com.mashape.unirest.http.Unirest;
 
+import cc.mallet.pipe.CharSequence2TokenSequence;
+import cc.mallet.pipe.CharSequenceLowercase;
+import cc.mallet.pipe.Pipe;
+import cc.mallet.pipe.SerialPipes;
+import cc.mallet.pipe.TokenSequence2FeatureSequence;
+import cc.mallet.pipe.TokenSequenceRemoveStopwords;
 import cc.mallet.types.InstanceList;
 import edu.stanford.nlp.ie.AbstractSequenceClassifier;
 import edu.stanford.nlp.ling.CoreLabel;
@@ -36,12 +44,20 @@ public class Analysis implements Runnable{
 	private static final Logger LOGGER = Logger.getLogger( Analysis.class.getName() );
 	
 	
-	public Analysis(AbstractSequenceClassifier<CoreLabel> classifier,
-			InstanceList instanceList, StoryInterceptedNotification notification, String userId){
+	public Analysis(AbstractSequenceClassifier<CoreLabel> classifier, StoryInterceptedNotification notification, String userId){
 		this.classifier = classifier;
-		this.instanceList = instanceList;
 		this.notification = notification;
 		this.userId = userId;
+		
+		ArrayList<Pipe> pipeList = new ArrayList<Pipe>();
+
+        // Pipes: lowercase, tokenize, remove stopwords, map to features
+        pipeList.add( new CharSequenceLowercase() );
+        pipeList.add( new CharSequence2TokenSequence(Pattern.compile("\\p{L}[\\p{L}\\p{P}]+\\p{L}")) );
+        pipeList.add( new TokenSequenceRemoveStopwords(new File("stoplists/en.txt"), "UTF-8", false, false, false) );
+        pipeList.add( new TokenSequence2FeatureSequence() );
+
+        instanceList = new InstanceList (new SerialPipes(pipeList));
 	}
 	
 	/*
