@@ -1,0 +1,1501 @@
+2017-10-17T17:07:06.315697+00:00 app[worker.1]: Oct 17, 2017 5:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:06.315699+00:00 app[worker.1]: INFO: Thread started for notification: 1508258644569
+2017-10-17T17:07:06.317839+00:00 app[worker.1]: Oct 17, 2017 5:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:06.317841+00:00 app[worker.1]: INFO: Removing notification: 1508258644569
+2017-10-17T17:07:06.319464+00:00 app[worker.1]: Oct 17, 2017 5:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:06.321658+00:00 app[worker.1]: Oct 17, 2017 5:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:06.321660+00:00 app[worker.1]: INFO: Removing notification: 1508258644640
+2017-10-17T17:07:06.323153+00:00 app[worker.1]: Oct 17, 2017 5:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:06.319466+00:00 app[worker.1]: INFO: Thread started for notification: 1508258644640
+2017-10-17T17:07:06.323155+00:00 app[worker.1]: INFO: Thread started for notification: 1508258701101
+2017-10-17T17:07:06.325728+00:00 app[worker.1]: Oct 17, 2017 5:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:06.325730+00:00 app[worker.1]: INFO: Removing notification: 1508258701101
+2017-10-17T17:07:06.327147+00:00 app[worker.1]: Oct 17, 2017 5:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:06.327149+00:00 app[worker.1]: INFO: Thread started for notification: 1508258702602
+2017-10-17T17:07:06.327593+00:00 app[worker.1]: Oct 17, 2017 5:07:06 PM edu.stanford.nlp.process.PTBLexer next
+2017-10-17T17:07:06.327595+00:00 app[worker.1]: WARNING: Untokenizable: ‪ (U+202A, decimal: 8234)
+2017-10-17T17:07:06.330302+00:00 app[worker.1]: Oct 17, 2017 5:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:06.330304+00:00 app[worker.1]: INFO: Removing notification: 1508258702602
+2017-10-17T17:07:06.331812+00:00 app[worker.1]: Oct 17, 2017 5:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:06.331814+00:00 app[worker.1]: INFO: Thread started for notification: 1508258703311
+2017-10-17T17:07:06.333830+00:00 app[worker.1]: Oct 17, 2017 5:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:06.333832+00:00 app[worker.1]: INFO: Thread started for notification: 1508258732813
+2017-10-17T17:07:07.025308+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.025319+00:00 app[worker.1]: INFO: Thread started for notification: 1508258880002
+2017-10-17T17:07:07.026989+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.026990+00:00 app[worker.1]: INFO: Thread started for notification: 1508258880029
+2017-10-17T17:07:07.028721+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.028723+00:00 app[worker.1]: INFO: Thread started for notification: 1508258880058
+2017-10-17T17:07:07.030410+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.030412+00:00 app[worker.1]: INFO: Thread started for notification: 1508258899067
+2017-10-17T17:07:07.030852+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM edu.stanford.nlp.process.PTBLexer next
+2017-10-17T17:07:07.030854+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-17T17:07:07.034983+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.034986+00:00 app[worker.1]: INFO: Thread started for notification: 1508258899111
+2017-10-17T17:07:07.073262+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.073265+00:00 app[worker.1]: INFO: Thread started for notification: 1508258899139
+2017-10-17T17:07:07.073735+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM edu.stanford.nlp.process.PTBLexer next
+2017-10-17T17:07:07.073736+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-17T17:07:07.121857+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.121859+00:00 app[worker.1]: INFO: Thread started for notification: 1508258945149
+2017-10-17T17:07:07.126703+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.126705+00:00 app[worker.1]: INFO: Thread started for notification: 1508259093590
+2017-10-17T17:07:07.129384+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:07.129386+00:00 app[worker.1]: INFO: Removing notification: 1508259093590
+2017-10-17T17:07:07.138211+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.138214+00:00 app[worker.1]: INFO: Thread started for notification: 1508259093701
+2017-10-17T17:07:07.142140+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:07.142142+00:00 app[worker.1]: INFO: Removing notification: 1508259093701
+2017-10-17T17:07:07.143564+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.143565+00:00 app[worker.1]: INFO: Thread started for notification: 1508259205535
+2017-10-17T17:07:07.145229+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:07.145231+00:00 app[worker.1]: INFO: Removing notification: 1508259205535
+2017-10-17T17:07:07.157618+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.157623+00:00 app[worker.1]: INFO: Thread started for notification: 1508259205592
+2017-10-17T17:07:07.172045+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:07.172050+00:00 app[worker.1]: INFO: Removing notification: 1508259205592
+2017-10-17T17:07:07.173751+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.173753+00:00 app[worker.1]: INFO: Thread started for notification: 1508259335178
+2017-10-17T17:07:07.175693+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.175695+00:00 app[worker.1]: INFO: Thread started for notification: 1508259335187
+2017-10-17T17:07:07.177326+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.177327+00:00 app[worker.1]: INFO: Thread started for notification: 1508259367163
+2017-10-17T17:07:07.179186+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.179188+00:00 app[worker.1]: INFO: Thread started for notification: 1508259368209
+2017-10-17T17:07:07.182583+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.182584+00:00 app[worker.1]: INFO: Thread started for notification: 1508259377091
+2017-10-17T17:07:07.184778+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:07.184781+00:00 app[worker.1]: INFO: Removing notification: 1508259377091
+2017-10-17T17:07:07.186617+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:07.186619+00:00 app[worker.1]: INFO: Thread started for notification: 1508259377396
+2017-10-17T17:07:07.188427+00:00 app[worker.1]: Oct 17, 2017 5:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:07.188430+00:00 app[worker.1]: INFO: Removing notification: 1508259377396
+2017-10-17T17:07:08.353351+00:00 app[worker.1]: Oct 17, 2017 5:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:08.353362+00:00 app[worker.1]: INFO: Thread started for notification: 1508259550791
+2017-10-17T17:07:08.357369+00:00 app[worker.1]: Oct 17, 2017 5:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:08.357371+00:00 app[worker.1]: INFO: Thread started for notification: 1508259550882
+2017-10-17T17:07:08.361107+00:00 app[worker.1]: Oct 17, 2017 5:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:08.363530+00:00 app[worker.1]: INFO: Removing notification: 1508259621349
+2017-10-17T17:07:08.364468+00:00 app[worker.1]: Oct 17, 2017 5:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:08.364470+00:00 app[worker.1]: INFO: Thread started for notification: 1508259627580
+2017-10-17T17:07:08.366634+00:00 app[worker.1]: INFO: Removing notification: 1508259627580
+2017-10-17T17:07:08.366632+00:00 app[worker.1]: Oct 17, 2017 5:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:08.361109+00:00 app[worker.1]: INFO: Thread started for notification: 1508259621349
+2017-10-17T17:07:08.363527+00:00 app[worker.1]: Oct 17, 2017 5:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:08.371257+00:00 app[worker.1]: Oct 17, 2017 5:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:08.371259+00:00 app[worker.1]: INFO: Thread started for notification: 1508259829780
+2017-10-17T17:07:08.387948+00:00 app[worker.1]: Oct 17, 2017 5:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:08.387951+00:00 app[worker.1]: INFO: Removing notification: 1508259829780
+2017-10-17T17:07:08.389815+00:00 app[worker.1]: Oct 17, 2017 5:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T17:07:08.389817+00:00 app[worker.1]: INFO: Thread started for notification: 1508259829976
+2017-10-17T17:07:08.393015+00:00 app[worker.1]: Oct 17, 2017 5:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:08.393017+00:00 app[worker.1]: INFO: Removing notification: 1508259829976
+2017-10-17T17:07:08.393484+00:00 app[worker.1]: 7188490 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 56 analysis threads started.
+2017-10-17T17:07:08.396724+00:00 app[worker.1]: Oct 17, 2017 5:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:08.396726+00:00 app[worker.1]: INFO: Removing notification: 1508256683471
+2017-10-17T17:07:08.400000+00:00 app[worker.1]: Oct 17, 2017 5:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:08.400003+00:00 app[worker.1]: INFO: Removing notification: 1508256683688
+2017-10-17T17:07:09.768346+00:00 app[worker.1]: Oct 17, 2017 5:07:09 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T17:07:09.768358+00:00 app[worker.1]: INFO: Adding story to phone contact: Fab
+2017-10-17T17:07:09.768724+00:00 app[worker.1]: Oct 17, 2017 5:07:09 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:09.768726+00:00 app[worker.1]: INFO: Removing notification: 1508257189240
+2017-10-17T17:07:09.769620+00:00 app[worker.1]: Oct 17, 2017 5:07:09 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:09.769622+00:00 app[worker.1]: INFO: Removing notification: 1508257205472
+2017-10-17T17:07:09.770362+00:00 app[worker.1]: Oct 17, 2017 5:07:09 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:09.770363+00:00 app[worker.1]: INFO: Removing notification: 1508257205640
+2017-10-17T17:07:09.771401+00:00 app[worker.1]: Oct 17, 2017 5:07:09 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:09.771402+00:00 app[worker.1]: INFO: Removing notification: 1508257671977
+2017-10-17T17:07:09.772269+00:00 app[worker.1]: Oct 17, 2017 5:07:09 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:09.772271+00:00 app[worker.1]: INFO: Removing notification: 1508257672070
+2017-10-17T17:07:10.824924+00:00 app[worker.1]: Oct 17, 2017 5:07:10 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T17:07:10.824937+00:00 app[worker.1]: INFO: Adding story to phone contact: Nic
+2017-10-17T17:07:10.826232+00:00 app[worker.1]: Oct 17, 2017 5:07:10 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:10.826233+00:00 app[worker.1]: INFO: Removing notification: 1508258190238
+2017-10-17T17:07:12.066232+00:00 app[worker.1]: Oct 17, 2017 5:07:12 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T17:07:12.066247+00:00 app[worker.1]: INFO: Adding story to phone contact: Nic
+2017-10-17T17:07:12.066601+00:00 app[worker.1]: Oct 17, 2017 5:07:12 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:12.066603+00:00 app[worker.1]: INFO: Removing notification: 1508258190350
+2017-10-17T17:07:13.291202+00:00 app[worker.1]: Oct 17, 2017 5:07:13 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T17:07:13.291239+00:00 app[worker.1]: INFO: Adding story to phone contact: Nic
+2017-10-17T17:07:13.304042+00:00 app[worker.1]: Oct 17, 2017 5:07:13 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:13.304046+00:00 app[worker.1]: INFO: Removing notification: 1508258190636
+2017-10-17T17:07:14.556702+00:00 app[worker.1]: Oct 17, 2017 5:07:14 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T17:07:14.556710+00:00 app[worker.1]: INFO: Adding story to phone contact: Nic
+2017-10-17T17:07:14.557040+00:00 app[worker.1]: Oct 17, 2017 5:07:14 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:14.557041+00:00 app[worker.1]: INFO: Removing notification: 1508258190700
+2017-10-17T17:07:16.005324+00:00 app[worker.1]: Oct 17, 2017 5:07:16 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T17:07:16.005335+00:00 app[worker.1]: INFO: Adding story to phone contact: Nic
+2017-10-17T17:07:16.005736+00:00 app[worker.1]: Oct 17, 2017 5:07:16 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:16.005738+00:00 app[worker.1]: INFO: Removing notification: 1508258339010
+2017-10-17T17:07:17.466620+00:00 app[worker.1]: Oct 17, 2017 5:07:17 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T17:07:17.466630+00:00 app[worker.1]: INFO: Adding story to phone contact: Nic
+2017-10-17T17:07:17.469448+00:00 app[worker.1]: Oct 17, 2017 5:07:17 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:17.469450+00:00 app[worker.1]: INFO: Removing notification: 1508258339195
+2017-10-17T17:07:18.661823+00:00 app[worker.1]: Oct 17, 2017 5:07:18 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T17:07:18.661834+00:00 app[worker.1]: INFO: Adding story to phone contact: Nic
+2017-10-17T17:07:18.662212+00:00 app[worker.1]: Oct 17, 2017 5:07:18 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:18.662213+00:00 app[worker.1]: INFO: Removing notification: 1508258374252
+2017-10-17T17:07:19.833212+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T17:07:19.833222+00:00 app[worker.1]: INFO: Adding story to phone contact: Nic
+2017-10-17T17:07:19.837550+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:19.837553+00:00 app[worker.1]: INFO: Removing notification: 1508258374519
+2017-10-17T17:07:19.838744+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:19.838746+00:00 app[worker.1]: INFO: Removing notification: 1508258432901
+2017-10-17T17:07:19.840426+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:19.840429+00:00 app[worker.1]: INFO: Removing notification: 1508258433030
+2017-10-17T17:07:19.843353+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:19.843355+00:00 app[worker.1]: INFO: Removing notification: 1508258578596
+2017-10-17T17:07:19.844092+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:19.844093+00:00 app[worker.1]: INFO: Removing notification: 1508258578675
+2017-10-17T17:07:19.844779+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:19.844780+00:00 app[worker.1]: INFO: Removing notification: 1508258578676
+2017-10-17T17:07:19.845471+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:19.845473+00:00 app[worker.1]: INFO: Removing notification: 1508258703311
+2017-10-17T17:07:19.851929+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:19.851933+00:00 app[worker.1]: INFO: Removing notification: 1508258732813
+2017-10-17T17:07:19.852740+00:00 app[worker.1]: INFO: Removing notification: 1508258880002
+2017-10-17T17:07:19.852738+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:19.853483+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:19.853485+00:00 app[worker.1]: INFO: Removing notification: 1508258880029
+2017-10-17T17:07:19.854232+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:19.854234+00:00 app[worker.1]: INFO: Removing notification: 1508258880058
+2017-10-17T17:07:19.855063+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:19.855064+00:00 app[worker.1]: INFO: Removing notification: 1508258899067
+2017-10-17T17:07:19.856627+00:00 app[worker.1]: Oct 17, 2017 5:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:19.856629+00:00 app[worker.1]: INFO: Removing notification: 1508258899111
+2017-10-17T17:07:21.037572+00:00 app[worker.1]: Oct 17, 2017 5:07:21 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T17:07:21.049025+00:00 app[worker.1]: Oct 17, 2017 5:07:21 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:21.037582+00:00 app[worker.1]: INFO: Adding story to phone contact: Fab
+2017-10-17T17:07:21.049026+00:00 app[worker.1]: INFO: Removing notification: 1508259335178
+2017-10-17T17:07:21.045044+00:00 app[worker.1]: Oct 17, 2017 5:07:21 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T17:07:21.049874+00:00 app[worker.1]: Oct 17, 2017 5:07:21 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:21.045047+00:00 app[worker.1]: INFO: Adding story to phone contact: Jack
+2017-10-17T17:07:21.046179+00:00 app[worker.1]: Oct 17, 2017 5:07:21 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T17:07:21.046180+00:00 app[worker.1]: INFO: Adding story to phone contact: Hanut
+2017-10-17T17:07:21.047149+00:00 app[worker.1]: Oct 17, 2017 5:07:21 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:21.048181+00:00 app[worker.1]: Oct 17, 2017 5:07:21 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:21.047151+00:00 app[worker.1]: INFO: Removing notification: 1508258899139
+2017-10-17T17:07:21.048183+00:00 app[worker.1]: INFO: Removing notification: 1508258945149
+2017-10-17T17:07:21.049875+00:00 app[worker.1]: INFO: Removing notification: 1508259335187
+2017-10-17T17:07:21.050920+00:00 app[worker.1]: Oct 17, 2017 5:07:21 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:21.050921+00:00 app[worker.1]: INFO: Removing notification: 1508259367163
+2017-10-17T17:07:21.052711+00:00 app[worker.1]: Oct 17, 2017 5:07:21 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:21.052713+00:00 app[worker.1]: INFO: Removing notification: 1508259368209
+2017-10-17T17:07:21.053613+00:00 app[worker.1]: Oct 17, 2017 5:07:21 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:21.053615+00:00 app[worker.1]: INFO: Removing notification: 1508259550791
+2017-10-17T17:07:21.054701+00:00 app[worker.1]: Oct 17, 2017 5:07:21 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T17:07:21.054702+00:00 app[worker.1]: INFO: Removing notification: 1508259550882
+2017-10-17T18:06:58.552619+00:00 app[scheduler.1]: 10800251 [DefaultQuartzScheduler_Worker-4] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508263618552
+2017-10-17T18:06:58.555614+00:00 app[worker.1]: 10778652 [main] INFO main.java.ie.fraser.findings.WorkerMain - Message Received: Sent at:1508263618552
+2017-10-17T18:07:02.648682+00:00 app[worker.1]: Loading classifier from /app/classifiers/english.all.3class.distsim.crf.ser.gz ... done [4.1 sec].
+2017-10-17T18:07:03.672385+00:00 app[worker.1]: INFO: Thread started for notification: 1508260058287
+2017-10-17T18:07:03.672375+00:00 app[worker.1]: Oct 17, 2017 6:07:03 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:03.674287+00:00 app[worker.1]: INFO: Removing notification: 1508260058287
+2017-10-17T18:07:03.674285+00:00 app[worker.1]: Oct 17, 2017 6:07:03 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:03.675205+00:00 app[worker.1]: INFO: Thread started for notification: 1508260058378
+2017-10-17T18:07:03.688300+00:00 app[worker.1]: Oct 17, 2017 6:07:03 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:03.692345+00:00 app[worker.1]: INFO: Thread started for notification: 1508260550835
+2017-10-17T18:07:03.692343+00:00 app[worker.1]: Oct 17, 2017 6:07:03 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:03.675203+00:00 app[worker.1]: Oct 17, 2017 6:07:03 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:03.699527+00:00 app[worker.1]: Oct 17, 2017 6:07:03 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:03.678239+00:00 app[worker.1]: Oct 17, 2017 6:07:03 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:03.684429+00:00 app[worker.1]: INFO: Thread started for notification: 1508260251717
+2017-10-17T18:07:03.715458+00:00 app[worker.1]: Oct 17, 2017 6:07:03 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:03.702034+00:00 app[worker.1]: Oct 17, 2017 6:07:03 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:03.705772+00:00 app[worker.1]: Oct 17, 2017 6:07:03 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:03.676740+00:00 app[worker.1]: Oct 17, 2017 6:07:03 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:03.678241+00:00 app[worker.1]: INFO: Thread started for notification: 1508260251632
+2017-10-17T18:07:03.723970+00:00 app[worker.1]: Oct 17, 2017 6:07:03 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:03.702036+00:00 app[worker.1]: INFO: Thread started for notification: 1508260784569
+2017-10-17T18:07:03.705774+00:00 app[worker.1]: INFO: Thread started for notification: 1508261084241
+2017-10-17T18:07:03.676742+00:00 app[worker.1]: INFO: Removing notification: 1508260058378
+2017-10-17T18:07:03.715461+00:00 app[worker.1]: INFO: Thread started for notification: 1508261084354
+2017-10-17T18:07:03.684427+00:00 app[worker.1]: Oct 17, 2017 6:07:03 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:03.688302+00:00 app[worker.1]: INFO: Thread started for notification: 1508260550784
+2017-10-17T18:07:03.699530+00:00 app[worker.1]: INFO: Thread started for notification: 1508260784479
+2017-10-17T18:07:03.723973+00:00 app[worker.1]: INFO: Thread started for notification: 1508261284389
+2017-10-17T18:07:05.338533+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:05.338543+00:00 app[worker.1]: INFO: Thread started for notification: 1508262154905
+2017-10-17T18:07:05.341186+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:05.341188+00:00 app[worker.1]: INFO: Thread started for notification: 1508262154970
+2017-10-17T18:07:05.346058+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:05.346060+00:00 app[worker.1]: INFO: Thread started for notification: 1508262224136
+2017-10-17T18:07:05.006028+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:05.006039+00:00 app[worker.1]: INFO: Thread started for notification: 1508261284477
+2017-10-17T18:07:05.012986+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:05.012988+00:00 app[worker.1]: INFO: Thread started for notification: 1508261295162
+2017-10-17T18:07:05.017369+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:05.020710+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:05.020712+00:00 app[worker.1]: INFO: Thread started for notification: 1508261588461
+2017-10-17T18:07:05.017372+00:00 app[worker.1]: INFO: Thread started for notification: 1508261295301
+2017-10-17T18:07:05.022740+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:05.022742+00:00 app[worker.1]: INFO: Removing notification: 1508261588461
+2017-10-17T18:07:05.028824+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:05.028827+00:00 app[worker.1]: INFO: Thread started for notification: 1508261588577
+2017-10-17T18:07:05.068213+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:05.068217+00:00 app[worker.1]: INFO: Removing notification: 1508261588577
+2017-10-17T18:07:05.072730+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:05.072733+00:00 app[worker.1]: INFO: Thread started for notification: 1508261752860
+2017-10-17T18:07:05.074042+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:05.074045+00:00 app[worker.1]: INFO: Removing notification: 1508261752860
+2017-10-17T18:07:05.074882+00:00 app[worker.1]: INFO: Thread started for notification: 1508261752944
+2017-10-17T18:07:05.074881+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:05.075712+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:05.075713+00:00 app[worker.1]: INFO: Removing notification: 1508261752944
+2017-10-17T18:07:05.076420+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:05.076421+00:00 app[worker.1]: INFO: Thread started for notification: 1508261999600
+2017-10-17T18:07:05.077498+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:05.077500+00:00 app[worker.1]: INFO: Removing notification: 1508261999600
+2017-10-17T18:07:05.078152+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:05.078154+00:00 app[worker.1]: INFO: Thread started for notification: 1508261999674
+2017-10-17T18:07:05.079006+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:05.079008+00:00 app[worker.1]: INFO: Removing notification: 1508261999674
+2017-10-17T18:07:05.085442+00:00 app[worker.1]: Oct 17, 2017 6:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:05.085444+00:00 app[worker.1]: INFO: Thread started for notification: 1508262010191
+2017-10-17T18:07:07.662852+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:07.662862+00:00 app[worker.1]: INFO: Thread started for notification: 1508262441161
+2017-10-17T18:07:07.685357+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:07.685360+00:00 app[worker.1]: INFO: Thread started for notification: 1508262441226
+2017-10-17T18:07:07.692740+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:07.692743+00:00 app[worker.1]: INFO: Thread started for notification: 1508262666905
+2017-10-17T18:07:07.697815+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:07.697818+00:00 app[worker.1]: INFO: Thread started for notification: 1508262666978
+2017-10-17T18:07:07.709401+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:07.709404+00:00 app[worker.1]: INFO: Thread started for notification: 1508262950979
+2017-10-17T18:07:07.712439+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:07.712442+00:00 app[worker.1]: INFO: Removing notification: 1508262950979
+2017-10-17T18:07:07.716719+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:07.716722+00:00 app[worker.1]: INFO: Thread started for notification: 1508262951063
+2017-10-17T18:07:07.721116+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:07.721118+00:00 app[worker.1]: INFO: Removing notification: 1508262951063
+2017-10-17T18:07:07.724000+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:07.724003+00:00 app[worker.1]: INFO: Thread started for notification: 1508263045973
+2017-10-17T18:07:07.732697+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:07.732700+00:00 app[worker.1]: INFO: Removing notification: 1508263045973
+2017-10-17T18:07:07.741229+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:07.741231+00:00 app[worker.1]: INFO: Thread started for notification: 1508263179649
+2017-10-17T18:07:07.746117+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:07.746122+00:00 app[worker.1]: INFO: Removing notification: 1508263179649
+2017-10-17T18:07:07.752295+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T18:07:07.752298+00:00 app[worker.1]: INFO: Thread started for notification: 1508263179698
+2017-10-17T18:07:07.754751+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:07.754754+00:00 app[worker.1]: INFO: Removing notification: 1508263179698
+2017-10-17T18:07:07.758860+00:00 app[worker.1]: 10787855 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 33 analysis threads started.
+2017-10-17T18:07:07.761139+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:07.761141+00:00 app[worker.1]: INFO: Removing notification: 1508260251632
+2017-10-17T18:07:07.772107+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:07.772111+00:00 app[worker.1]: INFO: Removing notification: 1508260251717
+2017-10-17T18:07:07.777314+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:07.777318+00:00 app[worker.1]: INFO: Removing notification: 1508260550784
+2017-10-17T18:07:07.778423+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:07.778425+00:00 app[worker.1]: INFO: Removing notification: 1508260550835
+2017-10-17T18:07:07.779542+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:07.779544+00:00 app[worker.1]: INFO: Removing notification: 1508260784479
+2017-10-17T18:07:07.781569+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:07.787971+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:07.781571+00:00 app[worker.1]: INFO: Removing notification: 1508260784569
+2017-10-17T18:07:07.787974+00:00 app[worker.1]: INFO: Removing notification: 1508261084241
+2017-10-17T18:07:07.793885+00:00 app[worker.1]: Oct 17, 2017 6:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:07.793889+00:00 app[worker.1]: INFO: Removing notification: 1508261084354
+2017-10-17T18:07:09.215782+00:00 app[worker.1]: Oct 17, 2017 6:07:09 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T18:07:09.215793+00:00 app[worker.1]: INFO: Adding story to phone contact: Maddie
+2017-10-17T18:07:09.217304+00:00 app[worker.1]: INFO: Removing notification: 1508261284389
+2017-10-17T18:07:09.217302+00:00 app[worker.1]: Oct 17, 2017 6:07:09 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:10.225958+00:00 app[worker.1]: Oct 17, 2017 6:07:10 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T18:07:10.225968+00:00 app[worker.1]: INFO: Adding story to phone contact: Maddie
+2017-10-17T18:07:10.226633+00:00 app[worker.1]: Oct 17, 2017 6:07:10 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:10.226634+00:00 app[worker.1]: INFO: Removing notification: 1508261284477
+2017-10-17T18:07:11.206418+00:00 app[worker.1]: Oct 17, 2017 6:07:11 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T18:07:11.206435+00:00 app[worker.1]: INFO: Adding story to phone contact: Maddie
+2017-10-17T18:07:11.208379+00:00 app[worker.1]: Oct 17, 2017 6:07:11 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:11.208381+00:00 app[worker.1]: INFO: Removing notification: 1508261295162
+2017-10-17T18:07:12.184961+00:00 app[worker.1]: Oct 17, 2017 6:07:12 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T18:07:12.184974+00:00 app[worker.1]: INFO: Adding story to phone contact: Maddie
+2017-10-17T18:07:12.185629+00:00 app[worker.1]: Oct 17, 2017 6:07:12 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:12.185631+00:00 app[worker.1]: INFO: Removing notification: 1508261295301
+2017-10-17T18:07:13.188836+00:00 app[worker.1]: Oct 17, 2017 6:07:13 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T18:07:13.188847+00:00 app[worker.1]: INFO: Adding story to phone contact: Jana
+2017-10-17T18:07:13.189071+00:00 app[worker.1]: Oct 17, 2017 6:07:13 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:13.189073+00:00 app[worker.1]: INFO: Removing notification: 1508262010191
+2017-10-17T18:07:13.190221+00:00 app[worker.1]: Oct 17, 2017 6:07:13 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:13.190223+00:00 app[worker.1]: INFO: Removing notification: 1508262154905
+2017-10-17T18:07:13.191315+00:00 app[worker.1]: Oct 17, 2017 6:07:13 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:13.191317+00:00 app[worker.1]: INFO: Removing notification: 1508262154970
+2017-10-17T18:07:14.265655+00:00 app[worker.1]: Oct 17, 2017 6:07:14 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T18:07:14.265665+00:00 app[worker.1]: INFO: Adding story to phone contact: Alexandra
+2017-10-17T18:07:14.266627+00:00 app[worker.1]: Oct 17, 2017 6:07:14 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:14.266628+00:00 app[worker.1]: INFO: Removing notification: 1508262224136
+2017-10-17T18:07:14.268282+00:00 app[worker.1]: Oct 17, 2017 6:07:14 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:14.268284+00:00 app[worker.1]: INFO: Removing notification: 1508262441161
+2017-10-17T18:07:14.269835+00:00 app[worker.1]: Oct 17, 2017 6:07:14 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:14.269836+00:00 app[worker.1]: INFO: Removing notification: 1508262441226
+2017-10-17T18:07:14.272465+00:00 app[worker.1]: Oct 17, 2017 6:07:14 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:14.272467+00:00 app[worker.1]: INFO: Removing notification: 1508262666905
+2017-10-17T18:07:14.275261+00:00 app[worker.1]: Oct 17, 2017 6:07:14 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T18:07:14.275263+00:00 app[worker.1]: INFO: Removing notification: 1508262666978
+2017-10-17T19:06:58.556472+00:00 app[scheduler.1]: 14400255 [DefaultQuartzScheduler_Worker-5] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508267218556
+2017-10-17T19:06:58.564773+00:00 app[worker.1]: 14378661 [main] INFO main.java.ie.fraser.findings.WorkerMain - Message Received: Sent at:1508267218556
+2017-10-17T19:07:04.748513+00:00 app[worker.1]: Loading classifier from /app/classifiers/english.all.3class.distsim.crf.ser.gz ... done [6.2 sec].
+2017-10-17T19:07:05.750085+00:00 app[worker.1]: Oct 17, 2017 7:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:05.750094+00:00 app[worker.1]: INFO: Thread started for notification: 1508263672299
+2017-10-17T19:07:05.755136+00:00 app[worker.1]: Oct 17, 2017 7:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:05.755139+00:00 app[worker.1]: INFO: Thread started for notification: 1508263672411
+2017-10-17T19:07:05.758513+00:00 app[worker.1]: Oct 17, 2017 7:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:05.758515+00:00 app[worker.1]: INFO: Thread started for notification: 1508263927744
+2017-10-17T19:07:05.760574+00:00 app[worker.1]: Oct 17, 2017 7:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:05.760575+00:00 app[worker.1]: INFO: Thread started for notification: 1508263927849
+2017-10-17T19:07:05.762551+00:00 app[worker.1]: Oct 17, 2017 7:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:05.762553+00:00 app[worker.1]: INFO: Thread started for notification: 1508263937870
+2017-10-17T19:07:05.764618+00:00 app[worker.1]: Oct 17, 2017 7:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:05.764620+00:00 app[worker.1]: INFO: Thread started for notification: 1508263938087
+2017-10-17T19:07:05.766438+00:00 app[worker.1]: Oct 17, 2017 7:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:05.766440+00:00 app[worker.1]: INFO: Thread started for notification: 1508263989980
+2017-10-17T19:07:05.767981+00:00 app[worker.1]: Oct 17, 2017 7:07:05 PM edu.stanford.nlp.process.PTBLexer next
+2017-10-17T19:07:05.767983+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-17T19:07:05.775960+00:00 app[worker.1]: Oct 17, 2017 7:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:05.775963+00:00 app[worker.1]: INFO: Thread started for notification: 1508264411816
+2017-10-17T19:07:05.776961+00:00 app[worker.1]: Oct 17, 2017 7:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:05.776963+00:00 app[worker.1]: INFO: Removing notification: 1508264411816
+2017-10-17T19:07:06.966387+00:00 app[worker.1]: Oct 17, 2017 7:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:06.989535+00:00 app[worker.1]: Oct 17, 2017 7:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:06.964059+00:00 app[worker.1]: Oct 17, 2017 7:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:06.986044+00:00 app[worker.1]: Oct 17, 2017 7:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:06.986048+00:00 app[worker.1]: INFO: Thread started for notification: 1508264665654
+2017-10-17T19:07:06.965315+00:00 app[worker.1]: Oct 17, 2017 7:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:06.964076+00:00 app[worker.1]: INFO: Thread started for notification: 1508264411884
+2017-10-17T19:07:06.965317+00:00 app[worker.1]: INFO: Removing notification: 1508264411884
+2017-10-17T19:07:06.966389+00:00 app[worker.1]: INFO: Thread started for notification: 1508264665515
+2017-10-17T19:07:07.105491+00:00 app[worker.1]: INFO: Thread started for notification: 1508265320134
+2017-10-17T19:07:06.992277+00:00 app[worker.1]: Oct 17, 2017 7:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:06.992279+00:00 app[worker.1]: INFO: Thread started for notification: 1508264949662
+2017-10-17T19:07:06.994486+00:00 app[worker.1]: Oct 17, 2017 7:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:06.994487+00:00 app[worker.1]: INFO: Thread started for notification: 1508265141863
+2017-10-17T19:07:07.056735+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.056738+00:00 app[worker.1]: INFO: Thread started for notification: 1508265142193
+2017-10-17T19:07:07.083995+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.083999+00:00 app[worker.1]: INFO: Thread started for notification: 1508265318531
+2017-10-17T19:07:07.088628+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:07.088632+00:00 app[worker.1]: INFO: Removing notification: 1508265318531
+2017-10-17T19:07:07.094941+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.122252+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:07.132041+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.122256+00:00 app[worker.1]: INFO: Removing notification: 1508265320134
+2017-10-17T19:07:07.094944+00:00 app[worker.1]: INFO: Thread started for notification: 1508265320086
+2017-10-17T19:07:07.095486+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM edu.stanford.nlp.process.PTBLexer next
+2017-10-17T19:07:07.095488+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-17T19:07:07.105487+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:06.989538+00:00 app[worker.1]: INFO: Thread started for notification: 1508264949562
+2017-10-17T19:07:07.163458+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-17T19:07:07.170308+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.170311+00:00 app[worker.1]: INFO: Thread started for notification: 1508265323317
+2017-10-17T19:07:07.170949+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:07.132044+00:00 app[worker.1]: INFO: Thread started for notification: 1508265320304
+2017-10-17T19:07:07.132536+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM edu.stanford.nlp.process.PTBLexer next
+2017-10-17T19:07:07.132537+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-17T19:07:07.144808+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.144810+00:00 app[worker.1]: INFO: Thread started for notification: 1508265323271
+2017-10-17T19:07:07.163456+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM edu.stanford.nlp.process.PTBLexer next
+2017-10-17T19:07:07.179757+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.179760+00:00 app[worker.1]: INFO: Thread started for notification: 1508265323361
+2017-10-17T19:07:07.170951+00:00 app[worker.1]: INFO: Removing notification: 1508265323317
+2017-10-17T19:07:07.180077+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM edu.stanford.nlp.process.PTBLexer next
+2017-10-17T19:07:07.180078+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-17T19:07:07.197364+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.202330+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.204150+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.205824+00:00 app[worker.1]: INFO: Thread started for notification: 1508265474947
+2017-10-17T19:07:07.208037+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.208039+00:00 app[worker.1]: INFO: Thread started for notification: 1508265475101
+2017-10-17T19:07:07.202332+00:00 app[worker.1]: INFO: Thread started for notification: 1508265474180
+2017-10-17T19:07:07.204151+00:00 app[worker.1]: INFO: Thread started for notification: 1508265474257
+2017-10-17T19:07:07.205822+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.212331+00:00 app[worker.1]: INFO: Thread started for notification: 1508265592227
+2017-10-17T19:07:07.209933+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.213871+00:00 app[worker.1]: INFO: Removing notification: 1508265592227
+2017-10-17T19:07:07.209934+00:00 app[worker.1]: INFO: Thread started for notification: 1508265592032
+2017-10-17T19:07:07.213869+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:07.211592+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:07.211594+00:00 app[worker.1]: INFO: Removing notification: 1508265592032
+2017-10-17T19:07:07.212329+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.197367+00:00 app[worker.1]: INFO: Thread started for notification: 1508265379022
+2017-10-17T19:07:07.200567+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.200569+00:00 app[worker.1]: INFO: Thread started for notification: 1508265379137
+2017-10-17T19:07:07.214833+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.214842+00:00 app[worker.1]: INFO: Thread started for notification: 1508265913010
+2017-10-17T19:07:07.216672+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.216674+00:00 app[worker.1]: INFO: Thread started for notification: 1508265913177
+2017-10-17T19:07:07.218626+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.218628+00:00 app[worker.1]: INFO: Thread started for notification: 1508266096708
+2017-10-17T19:07:07.219693+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:07.219695+00:00 app[worker.1]: INFO: Removing notification: 1508266096708
+2017-10-17T19:07:07.220715+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.220717+00:00 app[worker.1]: INFO: Thread started for notification: 1508266096783
+2017-10-17T19:07:07.221676+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:07.221677+00:00 app[worker.1]: INFO: Removing notification: 1508266096783
+2017-10-17T19:07:07.222695+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.222697+00:00 app[worker.1]: INFO: Thread started for notification: 1508266266273
+2017-10-17T19:07:07.223570+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:07.223572+00:00 app[worker.1]: INFO: Removing notification: 1508266266273
+2017-10-17T19:07:07.224540+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.224542+00:00 app[worker.1]: INFO: Thread started for notification: 1508266266362
+2017-10-17T19:07:07.225366+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:07.225367+00:00 app[worker.1]: INFO: Removing notification: 1508266266362
+2017-10-17T19:07:07.226324+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.226326+00:00 app[worker.1]: INFO: Thread started for notification: 1508266276873
+2017-10-17T19:07:07.240313+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.240317+00:00 app[worker.1]: INFO: Thread started for notification: 1508266541819
+2017-10-17T19:07:07.300364+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.300368+00:00 app[worker.1]: INFO: Thread started for notification: 1508266541916
+2017-10-17T19:07:07.302591+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.302592+00:00 app[worker.1]: INFO: Thread started for notification: 1508266757836
+2017-10-17T19:07:07.310772+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.310775+00:00 app[worker.1]: INFO: Thread started for notification: 1508266757907
+2017-10-17T19:07:07.321494+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.321496+00:00 app[worker.1]: INFO: Thread started for notification: 1508267151398
+2017-10-17T19:07:07.323155+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:07.323158+00:00 app[worker.1]: INFO: Removing notification: 1508267151398
+2017-10-17T19:07:07.331077+00:00 app[worker.1]: Oct 17, 2017 7:07:07 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T19:07:07.331080+00:00 app[worker.1]: INFO: Thread started for notification: 1508267151483
+2017-10-17T19:07:08.588955+00:00 app[worker.1]: Oct 17, 2017 7:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:08.588974+00:00 app[worker.1]: INFO: Removing notification: 1508267151483
+2017-10-17T19:07:08.589552+00:00 app[worker.1]: 14388686 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 43 analysis threads started.
+2017-10-17T19:07:08.590542+00:00 app[worker.1]: Oct 17, 2017 7:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:08.590544+00:00 app[worker.1]: INFO: Removing notification: 1508263672299
+2017-10-17T19:07:08.591355+00:00 app[worker.1]: Oct 17, 2017 7:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:08.591357+00:00 app[worker.1]: INFO: Removing notification: 1508263672411
+2017-10-17T19:07:08.592175+00:00 app[worker.1]: Oct 17, 2017 7:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:08.592177+00:00 app[worker.1]: INFO: Removing notification: 1508263927744
+2017-10-17T19:07:08.592873+00:00 app[worker.1]: Oct 17, 2017 7:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:08.592875+00:00 app[worker.1]: INFO: Removing notification: 1508263927849
+2017-10-17T19:07:08.593635+00:00 app[worker.1]: Oct 17, 2017 7:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:08.593636+00:00 app[worker.1]: INFO: Removing notification: 1508263937870
+2017-10-17T19:07:08.594408+00:00 app[worker.1]: INFO: Removing notification: 1508263938087
+2017-10-17T19:07:08.594407+00:00 app[worker.1]: Oct 17, 2017 7:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:10.100613+00:00 app[worker.1]: Oct 17, 2017 7:07:10 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T19:07:10.100622+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-17T19:07:10.101131+00:00 app[worker.1]: Oct 17, 2017 7:07:10 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:10.101142+00:00 app[worker.1]: INFO: Removing notification: 1508263989980
+2017-10-17T19:07:10.102257+00:00 app[worker.1]: Oct 17, 2017 7:07:10 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:10.102259+00:00 app[worker.1]: INFO: Removing notification: 1508264665515
+2017-10-17T19:07:10.109657+00:00 app[worker.1]: Oct 17, 2017 7:07:10 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:10.109659+00:00 app[worker.1]: INFO: Removing notification: 1508264665654
+2017-10-17T19:07:10.110709+00:00 app[worker.1]: Oct 17, 2017 7:07:10 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:10.110710+00:00 app[worker.1]: INFO: Removing notification: 1508264949562
+2017-10-17T19:07:10.111677+00:00 app[worker.1]: Oct 17, 2017 7:07:10 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:10.111679+00:00 app[worker.1]: INFO: Removing notification: 1508264949662
+2017-10-17T19:07:11.073613+00:00 app[worker.1]: Oct 17, 2017 7:07:11 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T19:07:11.073638+00:00 app[worker.1]: INFO: Adding story to phone contact: Laura
+2017-10-17T19:07:11.073880+00:00 app[worker.1]: Oct 17, 2017 7:07:11 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:11.073882+00:00 app[worker.1]: INFO: Removing notification: 1508265141863
+2017-10-17T19:07:11.938432+00:00 app[worker.1]: Oct 17, 2017 7:07:11 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T19:07:11.938445+00:00 app[worker.1]: INFO: Adding story to phone contact: Laura
+2017-10-17T19:07:11.938651+00:00 app[worker.1]: Oct 17, 2017 7:07:11 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:11.938653+00:00 app[worker.1]: INFO: Removing notification: 1508265142193
+2017-10-17T19:07:12.964939+00:00 app[worker.1]: Oct 17, 2017 7:07:12 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T19:07:12.964946+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-17T19:07:12.965134+00:00 app[worker.1]: Oct 17, 2017 7:07:12 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:12.965135+00:00 app[worker.1]: INFO: Removing notification: 1508265320086
+2017-10-17T19:07:14.024397+00:00 app[worker.1]: Oct 17, 2017 7:07:14 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T19:07:14.024886+00:00 app[worker.1]: Oct 17, 2017 7:07:14 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:14.024409+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-17T19:07:14.024888+00:00 app[worker.1]: INFO: Removing notification: 1508265320304
+2017-10-17T19:07:15.285593+00:00 app[worker.1]: Oct 17, 2017 7:07:15 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T19:07:15.285605+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-17T19:07:15.286015+00:00 app[worker.1]: Oct 17, 2017 7:07:15 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:15.286017+00:00 app[worker.1]: INFO: Removing notification: 1508265323271
+2017-10-17T19:07:16.605923+00:00 app[worker.1]: Oct 17, 2017 7:07:16 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T19:07:16.605934+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-17T19:07:16.606132+00:00 app[worker.1]: Oct 17, 2017 7:07:16 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:16.606134+00:00 app[worker.1]: INFO: Removing notification: 1508265323361
+2017-10-17T19:07:16.633874+00:00 app[worker.1]: Oct 17, 2017 7:07:16 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:16.633877+00:00 app[worker.1]: INFO: Removing notification: 1508265379022
+2017-10-17T19:07:16.647646+00:00 app[worker.1]: Oct 17, 2017 7:07:16 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:16.647649+00:00 app[worker.1]: INFO: Removing notification: 1508265379137
+2017-10-17T19:07:16.649072+00:00 app[worker.1]: Oct 17, 2017 7:07:16 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:16.649074+00:00 app[worker.1]: INFO: Removing notification: 1508265474180
+2017-10-17T19:07:16.672799+00:00 app[worker.1]: Oct 17, 2017 7:07:16 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:16.672802+00:00 app[worker.1]: INFO: Removing notification: 1508265474257
+2017-10-17T19:07:16.673894+00:00 app[worker.1]: Oct 17, 2017 7:07:16 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:16.673896+00:00 app[worker.1]: INFO: Removing notification: 1508265474947
+2017-10-17T19:07:16.674913+00:00 app[worker.1]: Oct 17, 2017 7:07:16 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:16.674915+00:00 app[worker.1]: INFO: Removing notification: 1508265475101
+2017-10-17T19:07:17.764932+00:00 app[worker.1]: Oct 17, 2017 7:07:17 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T19:07:17.764943+00:00 app[worker.1]: INFO: Adding story to phone contact: Andrew Bruce
+2017-10-17T19:07:17.765646+00:00 app[worker.1]: Oct 17, 2017 7:07:17 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:17.765648+00:00 app[worker.1]: INFO: Removing notification: 1508265913010
+2017-10-17T19:07:18.615073+00:00 app[worker.1]: Oct 17, 2017 7:07:18 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T19:07:18.615083+00:00 app[worker.1]: INFO: Adding story to phone contact: Andrew Bruce
+2017-10-17T19:07:18.615301+00:00 app[worker.1]: INFO: Removing notification: 1508265913177
+2017-10-17T19:07:18.615299+00:00 app[worker.1]: Oct 17, 2017 7:07:18 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:18.617678+00:00 app[worker.1]: Oct 17, 2017 7:07:18 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:18.617680+00:00 app[worker.1]: INFO: Removing notification: 1508266276873
+2017-10-17T19:07:19.968818+00:00 app[worker.1]: Oct 17, 2017 7:07:19 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T19:07:19.968830+00:00 app[worker.1]: INFO: Adding story to phone contact: Laura
+2017-10-17T19:07:19.969223+00:00 app[worker.1]: Oct 17, 2017 7:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:19.969225+00:00 app[worker.1]: INFO: Removing notification: 1508266541819
+2017-10-17T19:07:20.835734+00:00 app[worker.1]: Oct 17, 2017 7:07:20 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T19:07:20.835746+00:00 app[worker.1]: INFO: Adding story to phone contact: Laura
+2017-10-17T19:07:20.836031+00:00 app[worker.1]: Oct 17, 2017 7:07:20 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:20.836032+00:00 app[worker.1]: INFO: Removing notification: 1508266541916
+2017-10-17T19:07:20.837046+00:00 app[worker.1]: Oct 17, 2017 7:07:20 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:20.837047+00:00 app[worker.1]: INFO: Removing notification: 1508266757836
+2017-10-17T19:07:20.838048+00:00 app[worker.1]: Oct 17, 2017 7:07:20 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T19:07:20.838050+00:00 app[worker.1]: INFO: Removing notification: 1508266757907
+2017-10-17T20:06:58.610587+00:00 app[scheduler.1]: 18000309 [DefaultQuartzScheduler_Worker-6] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508270818609
+2017-10-17T20:06:58.617430+00:00 app[worker.1]: 17978714 [main] INFO main.java.ie.fraser.findings.WorkerMain - Message Received: Sent at:1508270818609
+2017-10-17T20:07:05.906034+00:00 app[worker.1]: Loading classifier from /app/classifiers/english.all.3class.distsim.crf.ser.gz ... done [7.3 sec].
+2017-10-17T20:07:06.836653+00:00 app[worker.1]: Oct 17, 2017 8:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:06.836662+00:00 app[worker.1]: INFO: Thread started for notification: 1508267370990
+2017-10-17T20:07:06.840651+00:00 app[worker.1]: Oct 17, 2017 8:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:06.840652+00:00 app[worker.1]: INFO: Thread started for notification: 1508267371066
+2017-10-17T20:07:06.854749+00:00 app[worker.1]: Oct 17, 2017 8:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:06.854753+00:00 app[worker.1]: INFO: Thread started for notification: 1508267660161
+2017-10-17T20:07:06.868448+00:00 app[worker.1]: Oct 17, 2017 8:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:06.868452+00:00 app[worker.1]: INFO: Thread started for notification: 1508267660353
+2017-10-17T20:07:06.886260+00:00 app[worker.1]: Oct 17, 2017 8:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:06.886263+00:00 app[worker.1]: INFO: Thread started for notification: 1508268030877
+2017-10-17T20:07:06.887186+00:00 app[worker.1]: Oct 17, 2017 8:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:06.887189+00:00 app[worker.1]: INFO: Removing notification: 1508268030877
+2017-10-17T20:07:06.888270+00:00 app[worker.1]: Oct 17, 2017 8:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:06.888272+00:00 app[worker.1]: INFO: Thread started for notification: 1508268179929
+2017-10-17T20:07:06.895095+00:00 app[worker.1]: Oct 17, 2017 8:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:06.895098+00:00 app[worker.1]: INFO: Thread started for notification: 1508268180044
+2017-10-17T20:07:06.896891+00:00 app[worker.1]: Oct 17, 2017 8:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:06.896893+00:00 app[worker.1]: INFO: Thread started for notification: 1508268355056
+2017-10-17T20:07:06.904592+00:00 app[worker.1]: Oct 17, 2017 8:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:06.904597+00:00 app[worker.1]: INFO: Removing notification: 1508268355056
+2017-10-17T20:07:06.906098+00:00 app[worker.1]: Oct 17, 2017 8:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:06.906100+00:00 app[worker.1]: INFO: Thread started for notification: 1508268355184
+2017-10-17T20:07:08.500871+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.500883+00:00 app[worker.1]: INFO: Thread started for notification: 1508269413322
+2017-10-17T20:07:08.516411+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.516414+00:00 app[worker.1]: INFO: Thread started for notification: 1508269413480
+2017-10-17T20:07:08.539457+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.539460+00:00 app[worker.1]: INFO: Thread started for notification: 1508269413791
+2017-10-17T20:07:08.552548+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.552551+00:00 app[worker.1]: INFO: Thread started for notification: 1508269413911
+2017-10-17T20:07:08.569492+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.569495+00:00 app[worker.1]: INFO: Thread started for notification: 1508269418165
+2017-10-17T20:07:08.584071+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.584073+00:00 app[worker.1]: INFO: Thread started for notification: 1508269418749
+2017-10-17T20:07:08.629079+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.629082+00:00 app[worker.1]: INFO: Thread started for notification: 1508269623681
+2017-10-17T20:07:08.630764+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.630766+00:00 app[worker.1]: INFO: Thread started for notification: 1508269623820
+2017-10-17T20:07:08.648443+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.648446+00:00 app[worker.1]: INFO: Thread started for notification: 1508269841587
+2017-10-17T20:07:08.675695+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.675697+00:00 app[worker.1]: INFO: Thread started for notification: 1508269844572
+2017-10-17T20:07:08.709425+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.709428+00:00 app[worker.1]: INFO: Thread started for notification: 1508269863394
+2017-10-17T20:07:08.713766+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.713768+00:00 app[worker.1]: INFO: Thread started for notification: 1508269863531
+2017-10-17T20:07:08.750845+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.750848+00:00 app[worker.1]: INFO: Thread started for notification: 1508270075237
+2017-10-17T20:07:08.243382+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:08.243395+00:00 app[worker.1]: INFO: Removing notification: 1508268355184
+2017-10-17T20:07:08.245895+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.245897+00:00 app[worker.1]: INFO: Thread started for notification: 1508268414608
+2017-10-17T20:07:08.246897+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:08.246899+00:00 app[worker.1]: INFO: Removing notification: 1508268414608
+2017-10-17T20:07:08.248367+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.248368+00:00 app[worker.1]: INFO: Thread started for notification: 1508268414748
+2017-10-17T20:07:08.249115+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:08.249117+00:00 app[worker.1]: INFO: Removing notification: 1508268414748
+2017-10-17T20:07:08.257111+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.257114+00:00 app[worker.1]: INFO: Thread started for notification: 1508268619980
+2017-10-17T20:07:08.268116+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.268119+00:00 app[worker.1]: INFO: Thread started for notification: 1508268620096
+2017-10-17T20:07:08.271185+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.271188+00:00 app[worker.1]: INFO: Thread started for notification: 1508268795177
+2017-10-17T20:07:08.297634+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:08.297637+00:00 app[worker.1]: INFO: Removing notification: 1508268795177
+2017-10-17T20:07:08.301289+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.301291+00:00 app[worker.1]: INFO: Thread started for notification: 1508268796451
+2017-10-17T20:07:08.302946+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM edu.stanford.nlp.process.PTBLexer next
+2017-10-17T20:07:08.302947+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-17T20:07:08.326161+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.326164+00:00 app[worker.1]: INFO: Thread started for notification: 1508268796511
+2017-10-17T20:07:08.326961+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:08.326963+00:00 app[worker.1]: INFO: Removing notification: 1508268796511
+2017-10-17T20:07:08.328743+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.328745+00:00 app[worker.1]: INFO: Thread started for notification: 1508268796599
+2017-10-17T20:07:08.329049+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM edu.stanford.nlp.process.PTBLexer next
+2017-10-17T20:07:08.329050+00:00 app[worker.1]: WARNING: Untokenizable: ‪ (U+202A, decimal: 8234)
+2017-10-17T20:07:08.336938+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:08.336941+00:00 app[worker.1]: INFO: Removing notification: 1508268796599
+2017-10-17T20:07:08.339934+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.339936+00:00 app[worker.1]: INFO: Thread started for notification: 1508268796706
+2017-10-17T20:07:08.340248+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM edu.stanford.nlp.process.PTBLexer next
+2017-10-17T20:07:08.340249+00:00 app[worker.1]: WARNING: Untokenizable: ‪ (U+202A, decimal: 8234)
+2017-10-17T20:07:08.418132+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.418135+00:00 app[worker.1]: INFO: Thread started for notification: 1508268808207
+2017-10-17T20:07:08.422997+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:08.433487+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.423000+00:00 app[worker.1]: INFO: Removing notification: 1508268808207
+2017-10-17T20:07:08.433490+00:00 app[worker.1]: INFO: Thread started for notification: 1508268808345
+2017-10-17T20:07:08.436669+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:08.436672+00:00 app[worker.1]: INFO: Removing notification: 1508268808345
+2017-10-17T20:07:08.441222+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.441224+00:00 app[worker.1]: INFO: Thread started for notification: 1508269065038
+2017-10-17T20:07:08.454618+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.454621+00:00 app[worker.1]: INFO: Thread started for notification: 1508269065228
+2017-10-17T20:07:08.461856+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.461860+00:00 app[worker.1]: INFO: Thread started for notification: 1508269237819
+2017-10-17T20:07:08.485112+00:00 app[worker.1]: INFO: Thread started for notification: 1508269237991
+2017-10-17T20:07:08.485110+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.487666+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.487668+00:00 app[worker.1]: INFO: Thread started for notification: 1508269402340
+2017-10-17T20:07:08.489851+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:08.489853+00:00 app[worker.1]: INFO: Removing notification: 1508269402340
+2017-10-17T20:07:08.778789+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.760625+00:00 app[worker.1]: INFO: Thread started for notification: 1508270075326
+2017-10-17T20:07:08.778791+00:00 app[worker.1]: INFO: Thread started for notification: 1508270318792
+2017-10-17T20:07:08.799621+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.799624+00:00 app[worker.1]: INFO: Thread started for notification: 1508270318883
+2017-10-17T20:07:08.807364+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.824611+00:00 app[worker.1]: INFO: Thread started for notification: 1508270503909
+2017-10-17T20:07:08.840786+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.824609+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.840788+00:00 app[worker.1]: INFO: Thread started for notification: 1508270729753
+2017-10-17T20:07:08.760613+00:00 app[worker.1]: Oct 17, 2017 8:07:08 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:08.807367+00:00 app[worker.1]: INFO: Thread started for notification: 1508270503849
+2017-10-17T20:07:10.784551+00:00 app[worker.1]: Oct 17, 2017 8:07:10 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T20:07:10.784566+00:00 app[worker.1]: INFO: Thread started for notification: 1508270729935
+2017-10-17T20:07:10.786163+00:00 app[worker.1]: 17990883 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 45 analysis threads started.
+2017-10-17T20:07:12.419681+00:00 app[worker.1]: Oct 17, 2017 8:07:12 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:12.419692+00:00 app[worker.1]: INFO: Adding story to phone contact: Jack
+2017-10-17T20:07:12.428358+00:00 app[worker.1]: Oct 17, 2017 8:07:12 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:12.428361+00:00 app[worker.1]: INFO: Removing notification: 1508267370990
+2017-10-17T20:07:13.578233+00:00 app[worker.1]: Oct 17, 2017 8:07:13 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:13.578247+00:00 app[worker.1]: INFO: Adding story to phone contact: Jack
+2017-10-17T20:07:13.579887+00:00 app[worker.1]: Oct 17, 2017 8:07:13 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:13.579889+00:00 app[worker.1]: INFO: Removing notification: 1508267371066
+2017-10-17T20:07:13.581708+00:00 app[worker.1]: Oct 17, 2017 8:07:13 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:13.581710+00:00 app[worker.1]: INFO: Removing notification: 1508267660161
+2017-10-17T20:07:13.583178+00:00 app[worker.1]: Oct 17, 2017 8:07:13 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:13.583180+00:00 app[worker.1]: INFO: Removing notification: 1508267660353
+2017-10-17T20:07:13.584712+00:00 app[worker.1]: Oct 17, 2017 8:07:13 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:13.584714+00:00 app[worker.1]: INFO: Removing notification: 1508268179929
+2017-10-17T20:07:13.586367+00:00 app[worker.1]: Oct 17, 2017 8:07:13 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:13.586369+00:00 app[worker.1]: INFO: Removing notification: 1508268180044
+2017-10-17T20:07:13.587817+00:00 app[worker.1]: Oct 17, 2017 8:07:13 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:13.587819+00:00 app[worker.1]: INFO: Removing notification: 1508268619980
+2017-10-17T20:07:13.590258+00:00 app[worker.1]: Oct 17, 2017 8:07:13 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:13.590260+00:00 app[worker.1]: INFO: Removing notification: 1508268620096
+2017-10-17T20:07:14.669830+00:00 app[worker.1]: Oct 17, 2017 8:07:14 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:14.669841+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-17T20:07:14.670017+00:00 app[worker.1]: Oct 17, 2017 8:07:14 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:14.670019+00:00 app[worker.1]: INFO: Removing notification: 1508268796451
+2017-10-17T20:07:15.723849+00:00 app[worker.1]: Oct 17, 2017 8:07:15 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:15.723860+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-17T20:07:15.724897+00:00 app[worker.1]: Oct 17, 2017 8:07:15 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:15.724899+00:00 app[worker.1]: INFO: Removing notification: 1508268796706
+2017-10-17T20:07:16.928429+00:00 app[worker.1]: Oct 17, 2017 8:07:16 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:16.928439+00:00 app[worker.1]: INFO: Adding story to phone contact: John (Tag)
+2017-10-17T20:07:16.928932+00:00 app[worker.1]: Oct 17, 2017 8:07:16 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:16.928934+00:00 app[worker.1]: INFO: Removing notification: 1508269065038
+2017-10-17T20:07:17.915557+00:00 app[worker.1]: Oct 17, 2017 8:07:17 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:17.915566+00:00 app[worker.1]: INFO: Adding story to phone contact: John (Tag)
+2017-10-17T20:07:17.915947+00:00 app[worker.1]: Oct 17, 2017 8:07:17 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:17.915948+00:00 app[worker.1]: INFO: Removing notification: 1508269065228
+2017-10-17T20:07:18.889455+00:00 app[worker.1]: Oct 17, 2017 8:07:18 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:18.889473+00:00 app[worker.1]: INFO: Adding story to phone contact: Jana
+2017-10-17T20:07:18.889751+00:00 app[worker.1]: Oct 17, 2017 8:07:18 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:18.889753+00:00 app[worker.1]: INFO: Removing notification: 1508269237819
+2017-10-17T20:07:19.872615+00:00 app[worker.1]: Oct 17, 2017 8:07:19 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:19.872847+00:00 app[worker.1]: Oct 17, 2017 8:07:19 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:19.872849+00:00 app[worker.1]: INFO: Removing notification: 1508269237991
+2017-10-17T20:07:19.872628+00:00 app[worker.1]: INFO: Adding story to phone contact: Jana
+2017-10-17T20:07:21.210866+00:00 app[worker.1]: Oct 17, 2017 8:07:21 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:21.210885+00:00 app[worker.1]: INFO: Adding story to phone contact: Andrew Bruce
+2017-10-17T20:07:21.211208+00:00 app[worker.1]: INFO: Removing notification: 1508269413322
+2017-10-17T20:07:21.211206+00:00 app[worker.1]: Oct 17, 2017 8:07:21 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:22.125823+00:00 app[worker.1]: Oct 17, 2017 8:07:22 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:22.125843+00:00 app[worker.1]: INFO: Adding story to phone contact: Andrew Bruce
+2017-10-17T20:07:22.126031+00:00 app[worker.1]: Oct 17, 2017 8:07:22 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:22.126032+00:00 app[worker.1]: INFO: Removing notification: 1508269413480
+2017-10-17T20:07:23.072247+00:00 app[worker.1]: Oct 17, 2017 8:07:23 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:23.071735+00:00 app[worker.1]: Oct 17, 2017 8:07:23 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:23.072249+00:00 app[worker.1]: INFO: Removing notification: 1508269413791
+2017-10-17T20:07:23.071746+00:00 app[worker.1]: INFO: Adding story to phone contact: Andrew Bruce
+2017-10-17T20:07:24.054855+00:00 app[worker.1]: Oct 17, 2017 8:07:24 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:24.053453+00:00 app[worker.1]: INFO: Removing notification: 1508269413911
+2017-10-17T20:07:24.053452+00:00 app[worker.1]: Oct 17, 2017 8:07:24 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:24.052973+00:00 app[worker.1]: Oct 17, 2017 8:07:24 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:24.052984+00:00 app[worker.1]: INFO: Adding story to phone contact: Andrew Bruce
+2017-10-17T20:07:24.056582+00:00 app[worker.1]: Oct 17, 2017 8:07:24 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:24.056596+00:00 app[worker.1]: INFO: Removing notification: 1508269418749
+2017-10-17T20:07:24.062505+00:00 app[worker.1]: Oct 17, 2017 8:07:24 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:24.059076+00:00 app[worker.1]: INFO: Removing notification: 1508269623681
+2017-10-17T20:07:24.061079+00:00 app[worker.1]: INFO: Removing notification: 1508269623820
+2017-10-17T20:07:24.061856+00:00 app[worker.1]: Oct 17, 2017 8:07:24 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:24.064225+00:00 app[worker.1]: Oct 17, 2017 8:07:24 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:24.054856+00:00 app[worker.1]: INFO: Removing notification: 1508269418165
+2017-10-17T20:07:24.063374+00:00 app[worker.1]: Oct 17, 2017 8:07:24 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:24.064226+00:00 app[worker.1]: INFO: Removing notification: 1508269863531
+2017-10-17T20:07:24.065731+00:00 app[worker.1]: Oct 17, 2017 8:07:24 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:24.065061+00:00 app[worker.1]: INFO: Removing notification: 1508270075237
+2017-10-17T20:07:24.059074+00:00 app[worker.1]: Oct 17, 2017 8:07:24 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:24.063375+00:00 app[worker.1]: INFO: Removing notification: 1508269863394
+2017-10-17T20:07:24.061077+00:00 app[worker.1]: Oct 17, 2017 8:07:24 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:24.065059+00:00 app[worker.1]: Oct 17, 2017 8:07:24 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:24.061858+00:00 app[worker.1]: INFO: Removing notification: 1508269841587
+2017-10-17T20:07:24.062507+00:00 app[worker.1]: INFO: Removing notification: 1508269844572
+2017-10-17T20:07:24.065732+00:00 app[worker.1]: INFO: Removing notification: 1508270075326
+2017-10-17T20:07:25.566120+00:00 app[worker.1]: Oct 17, 2017 8:07:25 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:25.566143+00:00 app[worker.1]: INFO: Adding story to phone contact: Christy
+2017-10-17T20:07:25.566252+00:00 app[worker.1]: Oct 17, 2017 8:07:25 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:25.566253+00:00 app[worker.1]: INFO: Removing notification: 1508270318792
+2017-10-17T20:07:26.470294+00:00 app[worker.1]: Oct 17, 2017 8:07:26 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:26.470295+00:00 app[worker.1]: INFO: Removing notification: 1508270318883
+2017-10-17T20:07:26.470172+00:00 app[worker.1]: INFO: Adding story to phone contact: Christy
+2017-10-17T20:07:26.470154+00:00 app[worker.1]: Oct 17, 2017 8:07:26 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:27.469398+00:00 app[worker.1]: Oct 17, 2017 8:07:27 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:27.469409+00:00 app[worker.1]: INFO: Adding story to phone contact: David
+2017-10-17T20:07:27.469576+00:00 app[worker.1]: Oct 17, 2017 8:07:27 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:27.469577+00:00 app[worker.1]: INFO: Removing notification: 1508270503849
+2017-10-17T20:07:28.486716+00:00 app[worker.1]: Oct 17, 2017 8:07:28 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T20:07:28.486734+00:00 app[worker.1]: INFO: Adding story to phone contact: David
+2017-10-17T20:07:28.486881+00:00 app[worker.1]: Oct 17, 2017 8:07:28 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:28.486882+00:00 app[worker.1]: INFO: Removing notification: 1508270503909
+2017-10-17T20:07:28.487642+00:00 app[worker.1]: Oct 17, 2017 8:07:28 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:28.487643+00:00 app[worker.1]: INFO: Removing notification: 1508270729753
+2017-10-17T20:07:28.488320+00:00 app[worker.1]: Oct 17, 2017 8:07:28 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T20:07:28.488322+00:00 app[worker.1]: INFO: Removing notification: 1508270729935
+2017-10-17T21:06:58.582724+00:00 app[worker.1]: 21578679 [main] INFO main.java.ie.fraser.findings.WorkerMain - Message Received: Sent at:1508274418583
+2017-10-17T21:06:58.583841+00:00 app[scheduler.1]: 21600282 [DefaultQuartzScheduler_Worker-7] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508274418583
+2017-10-17T21:07:04.677790+00:00 app[worker.1]: Loading classifier from /app/classifiers/english.all.3class.distsim.crf.ser.gz ... done [6.1 sec].
+2017-10-17T21:07:05.650410+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.650420+00:00 app[worker.1]: INFO: Thread started for notification: 1508271022523
+2017-10-17T21:07:05.655479+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.665584+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.665586+00:00 app[worker.1]: INFO: Thread started for notification: 1508271163914
+2017-10-17T21:07:05.672687+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.672689+00:00 app[worker.1]: INFO: Thread started for notification: 1508271164042
+2017-10-17T21:07:05.655482+00:00 app[worker.1]: INFO: Thread started for notification: 1508271022600
+2017-10-17T21:07:05.674590+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.674592+00:00 app[worker.1]: INFO: Thread started for notification: 1508271358161
+2017-10-17T21:07:05.676299+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:05.676301+00:00 app[worker.1]: INFO: Removing notification: 1508271358161
+2017-10-17T21:07:05.677320+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.679197+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:05.679199+00:00 app[worker.1]: INFO: Removing notification: 1508271358303
+2017-10-17T21:07:05.683024+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.677322+00:00 app[worker.1]: INFO: Thread started for notification: 1508271358303
+2017-10-17T21:07:05.683027+00:00 app[worker.1]: INFO: Thread started for notification: 1508271598217
+2017-10-17T21:07:05.685895+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:05.685898+00:00 app[worker.1]: INFO: Removing notification: 1508271598217
+2017-10-17T21:07:05.700765+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.700768+00:00 app[worker.1]: INFO: Thread started for notification: 1508271598342
+2017-10-17T21:07:05.703178+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:05.720325+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.720329+00:00 app[worker.1]: INFO: Thread started for notification: 1508271662751
+2017-10-17T21:07:05.703181+00:00 app[worker.1]: INFO: Removing notification: 1508271598342
+2017-10-17T21:07:05.726215+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:05.726218+00:00 app[worker.1]: INFO: Removing notification: 1508271662751
+2017-10-17T21:07:05.731008+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.731010+00:00 app[worker.1]: INFO: Thread started for notification: 1508271662879
+2017-10-17T21:07:05.739495+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:05.739498+00:00 app[worker.1]: INFO: Removing notification: 1508271662879
+2017-10-17T21:07:05.740885+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.740887+00:00 app[worker.1]: INFO: Thread started for notification: 1508271668932
+2017-10-17T21:07:05.742303+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:05.742305+00:00 app[worker.1]: INFO: Removing notification: 1508271668932
+2017-10-17T21:07:05.743320+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.743322+00:00 app[worker.1]: INFO: Thread started for notification: 1508271669075
+2017-10-17T21:07:05.744524+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:05.744525+00:00 app[worker.1]: INFO: Removing notification: 1508271669075
+2017-10-17T21:07:05.751963+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.751966+00:00 app[worker.1]: INFO: Thread started for notification: 1508271797449
+2017-10-17T21:07:05.753960+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:05.753962+00:00 app[worker.1]: INFO: Removing notification: 1508271797449
+2017-10-17T21:07:05.769191+00:00 app[worker.1]: Oct 17, 2017 9:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:05.769194+00:00 app[worker.1]: INFO: Thread started for notification: 1508271797587
+2017-10-17T21:07:06.410012+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:06.410031+00:00 app[worker.1]: INFO: Removing notification: 1508271797587
+2017-10-17T21:07:06.416418+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:06.416420+00:00 app[worker.1]: INFO: Thread started for notification: 1508271888947
+2017-10-17T21:07:06.421870+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:06.421873+00:00 app[worker.1]: INFO: Removing notification: 1508271888947
+2017-10-17T21:07:06.422629+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:06.422631+00:00 app[worker.1]: INFO: Thread started for notification: 1508271889204
+2017-10-17T21:07:06.424045+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:06.424047+00:00 app[worker.1]: INFO: Removing notification: 1508271889204
+2017-10-17T21:07:06.424667+00:00 app[worker.1]: INFO: Thread started for notification: 1508273451627
+2017-10-17T21:07:06.424665+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:06.426459+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:06.426460+00:00 app[worker.1]: INFO: Thread started for notification: 1508273454805
+2017-10-17T21:07:06.428229+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:06.428231+00:00 app[worker.1]: INFO: Thread started for notification: 1508274254671
+2017-10-17T21:07:06.433590+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T21:07:06.440416+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:06.433593+00:00 app[worker.1]: INFO: Thread started for notification: 1508274380974
+2017-10-17T21:07:06.440420+00:00 app[worker.1]: INFO: Removing notification: 1508274380974
+2017-10-17T21:07:06.440862+00:00 app[worker.1]: 21586537 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 20 analysis threads started.
+2017-10-17T21:07:06.442212+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:06.442214+00:00 app[worker.1]: INFO: Removing notification: 1508271022523
+2017-10-17T21:07:06.443381+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:06.443382+00:00 app[worker.1]: INFO: Removing notification: 1508271022600
+2017-10-17T21:07:06.444483+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:06.444485+00:00 app[worker.1]: INFO: Removing notification: 1508271163914
+2017-10-17T21:07:06.445945+00:00 app[worker.1]: INFO: Removing notification: 1508271164042
+2017-10-17T21:07:06.445943+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:06.446970+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:06.446972+00:00 app[worker.1]: INFO: Removing notification: 1508273451627
+2017-10-17T21:07:06.447999+00:00 app[worker.1]: Oct 17, 2017 9:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:06.448000+00:00 app[worker.1]: INFO: Removing notification: 1508273454805
+2017-10-17T21:07:07.776153+00:00 app[worker.1]: Oct 17, 2017 9:07:07 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T21:07:07.776166+00:00 app[worker.1]: INFO: Adding story to phone contact: Varsha
+2017-10-17T21:07:07.776773+00:00 app[worker.1]: Oct 17, 2017 9:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T21:07:07.776776+00:00 app[worker.1]: INFO: Removing notification: 1508274254671
+2017-10-17T22:06:58.557025+00:00 app[scheduler.1]: 25200255 [DefaultQuartzScheduler_Worker-8] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508278018556
+2017-10-17T22:06:58.562979+00:00 app[worker.1]: 25178659 [main] INFO main.java.ie.fraser.findings.WorkerMain - Message Received: Sent at:1508278018556
+2017-10-17T22:07:03.349583+00:00 app[worker.1]: Loading classifier from /app/classifiers/english.all.3class.distsim.crf.ser.gz ... done [4.8 sec].
+2017-10-17T22:07:05.080697+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.080708+00:00 app[worker.1]: INFO: Thread started for notification: 1508276479719
+2017-10-17T22:07:05.082002+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.082003+00:00 app[worker.1]: INFO: Thread started for notification: 1508276479751
+2017-10-17T22:07:05.082838+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.082839+00:00 app[worker.1]: INFO: Thread started for notification: 1508276479762
+2017-10-17T22:07:05.084542+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.084544+00:00 app[worker.1]: INFO: Thread started for notification: 1508276503872
+2017-10-17T22:07:05.085751+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.085753+00:00 app[worker.1]: INFO: Thread started for notification: 1508276515904
+2017-10-17T22:07:05.086821+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.086822+00:00 app[worker.1]: INFO: Thread started for notification: 1508276515914
+2017-10-17T22:07:05.087913+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.087915+00:00 app[worker.1]: INFO: Thread started for notification: 1508276515931
+2017-10-17T22:07:05.089260+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.089262+00:00 app[worker.1]: INFO: Thread started for notification: 1508276549706
+2017-10-17T22:07:05.092160+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.092162+00:00 app[worker.1]: INFO: Thread started for notification: 1508276559504
+2017-10-17T22:07:05.093223+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.093225+00:00 app[worker.1]: INFO: Thread started for notification: 1508276559512
+2017-10-17T22:07:05.094277+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.094279+00:00 app[worker.1]: INFO: Thread started for notification: 1508276559525
+2017-10-17T22:07:05.095877+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.095879+00:00 app[worker.1]: INFO: Thread started for notification: 1508276568295
+2017-10-17T22:07:05.096929+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.096931+00:00 app[worker.1]: INFO: Thread started for notification: 1508276577272
+2017-10-17T22:07:05.097982+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.097983+00:00 app[worker.1]: INFO: Thread started for notification: 1508276577283
+2017-10-17T22:07:05.099126+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.099128+00:00 app[worker.1]: INFO: Thread started for notification: 1508276577294
+2017-10-17T22:07:05.100379+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.100381+00:00 app[worker.1]: INFO: Thread started for notification: 1508276692030
+2017-10-17T22:07:05.101707+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.101709+00:00 app[worker.1]: INFO: Thread started for notification: 1508276698849
+2017-10-17T22:07:05.102927+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.102929+00:00 app[worker.1]: INFO: Thread started for notification: 1508276703908
+2017-10-17T22:07:05.103841+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.103843+00:00 app[worker.1]: INFO: Thread started for notification: 1508276776397
+2017-10-17T22:07:05.104729+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.104734+00:00 app[worker.1]: INFO: Thread started for notification: 1508276776420
+2017-10-17T22:07:05.105479+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.105480+00:00 app[worker.1]: INFO: Thread started for notification: 1508276776433
+2017-10-17T22:07:05.106260+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.106262+00:00 app[worker.1]: INFO: Thread started for notification: 1508276776444
+2017-10-17T22:07:05.107013+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.107015+00:00 app[worker.1]: INFO: Thread started for notification: 1508276776451
+2017-10-17T22:07:05.107826+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.107827+00:00 app[worker.1]: INFO: Thread started for notification: 1508277053316
+2017-10-17T22:07:05.108606+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.108608+00:00 app[worker.1]: INFO: Thread started for notification: 1508277053341
+2017-10-17T22:07:05.109348+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.109350+00:00 app[worker.1]: INFO: Thread started for notification: 1508277064550
+2017-10-17T22:07:05.110113+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.110114+00:00 app[worker.1]: INFO: Thread started for notification: 1508277065459
+2017-10-17T22:07:05.110907+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.110908+00:00 app[worker.1]: INFO: Thread started for notification: 1508277065475
+2017-10-17T22:07:05.111866+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.111867+00:00 app[worker.1]: INFO: Thread started for notification: 1508277119495
+2017-10-17T22:07:05.112603+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.112604+00:00 app[worker.1]: INFO: Thread started for notification: 1508277119532
+2017-10-17T22:07:05.113345+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.113346+00:00 app[worker.1]: INFO: Thread started for notification: 1508277122387
+2017-10-17T22:07:05.114205+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.114207+00:00 app[worker.1]: INFO: Thread started for notification: 1508277122411
+2017-10-17T22:07:05.115446+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.115448+00:00 app[worker.1]: INFO: Thread started for notification: 1508277148808
+2017-10-17T22:07:05.116567+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.116569+00:00 app[worker.1]: INFO: Thread started for notification: 1508277150992
+2017-10-17T22:07:05.117662+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.117664+00:00 app[worker.1]: INFO: Thread started for notification: 1508277151712
+2017-10-17T22:07:05.118721+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.118723+00:00 app[worker.1]: INFO: Thread started for notification: 1508277151730
+2017-10-17T22:07:05.119550+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.119552+00:00 app[worker.1]: INFO: Thread started for notification: 1508277226343
+2017-10-17T22:07:05.122543+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.122545+00:00 app[worker.1]: INFO: Thread started for notification: 1508277291896
+2017-10-17T22:07:05.124523+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.124525+00:00 app[worker.1]: INFO: Thread started for notification: 1508277293544
+2017-10-17T22:07:05.125365+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.125366+00:00 app[worker.1]: INFO: Thread started for notification: 1508277304605
+2017-10-17T22:07:05.126195+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T22:07:05.126197+00:00 app[worker.1]: INFO: Thread started for notification: 1508277756310
+2017-10-17T22:07:05.126767+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:05.126768+00:00 app[worker.1]: INFO: Removing notification: 1508277756310
+2017-10-17T22:07:05.126917+00:00 app[worker.1]: 25185223 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 41 analysis threads started.
+2017-10-17T22:07:05.262506+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:05.262510+00:00 app[worker.1]: INFO: Removing notification: 1508276479719
+2017-10-17T22:07:05.267735+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:05.267738+00:00 app[worker.1]: INFO: Removing notification: 1508276479751
+2017-10-17T22:07:05.269963+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:05.269965+00:00 app[worker.1]: INFO: Removing notification: 1508276479762
+2017-10-17T22:07:05.271462+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:05.271464+00:00 app[worker.1]: INFO: Removing notification: 1508276503872
+2017-10-17T22:07:05.272464+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:05.272466+00:00 app[worker.1]: INFO: Removing notification: 1508276515904
+2017-10-17T22:07:05.273331+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:05.273332+00:00 app[worker.1]: INFO: Removing notification: 1508276515914
+2017-10-17T22:07:05.274194+00:00 app[worker.1]: Oct 17, 2017 10:07:05 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:05.274196+00:00 app[worker.1]: INFO: Removing notification: 1508276515931
+2017-10-17T22:07:07.847882+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T22:07:07.847889+00:00 app[worker.1]: INFO: Adding story to phone contact: Hanut
+2017-10-17T22:07:07.848722+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.848724+00:00 app[worker.1]: INFO: Removing notification: 1508276549706
+2017-10-17T22:07:07.849478+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.849479+00:00 app[worker.1]: INFO: Removing notification: 1508276559504
+2017-10-17T22:07:07.850018+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.850019+00:00 app[worker.1]: INFO: Removing notification: 1508276559512
+2017-10-17T22:07:07.850525+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.850527+00:00 app[worker.1]: INFO: Removing notification: 1508276559525
+2017-10-17T22:07:07.851041+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.851043+00:00 app[worker.1]: INFO: Removing notification: 1508276568295
+2017-10-17T22:07:07.851528+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.851530+00:00 app[worker.1]: INFO: Removing notification: 1508276577272
+2017-10-17T22:07:07.852133+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.852135+00:00 app[worker.1]: INFO: Removing notification: 1508276577283
+2017-10-17T22:07:07.852755+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.852756+00:00 app[worker.1]: INFO: Removing notification: 1508276577294
+2017-10-17T22:07:07.853399+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.853401+00:00 app[worker.1]: INFO: Removing notification: 1508276692030
+2017-10-17T22:07:07.853982+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.853984+00:00 app[worker.1]: INFO: Removing notification: 1508276698849
+2017-10-17T22:07:07.854696+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.854697+00:00 app[worker.1]: INFO: Removing notification: 1508276703908
+2017-10-17T22:07:07.855306+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.855308+00:00 app[worker.1]: INFO: Removing notification: 1508276776397
+2017-10-17T22:07:07.855906+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.855908+00:00 app[worker.1]: INFO: Removing notification: 1508276776420
+2017-10-17T22:07:07.856523+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.856524+00:00 app[worker.1]: INFO: Removing notification: 1508276776433
+2017-10-17T22:07:07.857123+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.857125+00:00 app[worker.1]: INFO: Removing notification: 1508276776444
+2017-10-17T22:07:07.857714+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.857716+00:00 app[worker.1]: INFO: Removing notification: 1508276776451
+2017-10-17T22:07:07.858326+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.858327+00:00 app[worker.1]: INFO: Removing notification: 1508277053316
+2017-10-17T22:07:07.858917+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.858919+00:00 app[worker.1]: INFO: Removing notification: 1508277053341
+2017-10-17T22:07:07.859642+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.859644+00:00 app[worker.1]: INFO: Removing notification: 1508277064550
+2017-10-17T22:07:07.860453+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.860455+00:00 app[worker.1]: INFO: Removing notification: 1508277065459
+2017-10-17T22:07:07.861248+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.861250+00:00 app[worker.1]: INFO: Removing notification: 1508277065475
+2017-10-17T22:07:07.862051+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.862053+00:00 app[worker.1]: INFO: Removing notification: 1508277119495
+2017-10-17T22:07:07.863391+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.863393+00:00 app[worker.1]: INFO: Removing notification: 1508277119532
+2017-10-17T22:07:07.864164+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.864166+00:00 app[worker.1]: INFO: Removing notification: 1508277122387
+2017-10-17T22:07:07.865044+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.865045+00:00 app[worker.1]: INFO: Removing notification: 1508277122411
+2017-10-17T22:07:07.865908+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.865910+00:00 app[worker.1]: INFO: Removing notification: 1508277148808
+2017-10-17T22:07:07.866697+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.866699+00:00 app[worker.1]: INFO: Removing notification: 1508277150992
+2017-10-17T22:07:07.867511+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.867513+00:00 app[worker.1]: INFO: Removing notification: 1508277151712
+2017-10-17T22:07:07.868108+00:00 app[worker.1]: Oct 17, 2017 10:07:07 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:07.868110+00:00 app[worker.1]: INFO: Removing notification: 1508277151730
+2017-10-17T22:07:08.844075+00:00 app[worker.1]: Oct 17, 2017 10:07:08 PM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-17T22:07:08.844094+00:00 app[worker.1]: INFO: Adding story to phone contact: Anna
+2017-10-17T22:07:08.844736+00:00 app[worker.1]: Oct 17, 2017 10:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:08.844738+00:00 app[worker.1]: INFO: Removing notification: 1508277226343
+2017-10-17T22:07:08.845459+00:00 app[worker.1]: Oct 17, 2017 10:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:08.845461+00:00 app[worker.1]: INFO: Removing notification: 1508277291896
+2017-10-17T22:07:08.846058+00:00 app[worker.1]: Oct 17, 2017 10:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:08.846060+00:00 app[worker.1]: INFO: Removing notification: 1508277293544
+2017-10-17T22:07:08.846679+00:00 app[worker.1]: Oct 17, 2017 10:07:08 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T22:07:08.846680+00:00 app[worker.1]: INFO: Removing notification: 1508277304605
+2017-10-17T23:06:58.556200+00:00 app[worker.1]: 28778651 [main] INFO main.java.ie.fraser.findings.WorkerMain - Message Received: Sent at:1508281618555
+2017-10-17T23:06:58.555338+00:00 app[scheduler.1]: 28800254 [DefaultQuartzScheduler_Worker-9] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508281618555
+2017-10-17T23:07:04.637107+00:00 app[worker.1]: Loading classifier from /app/classifiers/english.all.3class.distsim.crf.ser.gz ... done [6.1 sec].
+2017-10-17T23:07:05.516827+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.516839+00:00 app[worker.1]: INFO: Thread started for notification: 1508278041653
+2017-10-17T23:07:05.518608+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.518610+00:00 app[worker.1]: INFO: Thread started for notification: 1508278041709
+2017-10-17T23:07:05.519874+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.519875+00:00 app[worker.1]: INFO: Thread started for notification: 1508278048118
+2017-10-17T23:07:05.521095+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.521097+00:00 app[worker.1]: INFO: Thread started for notification: 1508278048539
+2017-10-17T23:07:05.533085+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.533088+00:00 app[worker.1]: INFO: Thread started for notification: 1508278056800
+2017-10-17T23:07:05.539731+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.539734+00:00 app[worker.1]: INFO: Thread started for notification: 1508278056822
+2017-10-17T23:07:05.544071+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.544073+00:00 app[worker.1]: INFO: Thread started for notification: 1508278056863
+2017-10-17T23:07:05.546785+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.546787+00:00 app[worker.1]: INFO: Thread started for notification: 1508278072596
+2017-10-17T23:07:05.549692+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.549694+00:00 app[worker.1]: INFO: Thread started for notification: 1508278072608
+2017-10-17T23:07:05.553361+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.553364+00:00 app[worker.1]: INFO: Thread started for notification: 1508278072787
+2017-10-17T23:07:05.555904+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.555906+00:00 app[worker.1]: INFO: Thread started for notification: 1508278073350
+2017-10-17T23:07:05.558586+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.558589+00:00 app[worker.1]: INFO: Thread started for notification: 1508278734167
+2017-10-17T23:07:05.564185+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.564188+00:00 app[worker.1]: INFO: Thread started for notification: 1508278734197
+2017-10-17T23:07:05.565630+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.565635+00:00 app[worker.1]: INFO: Thread started for notification: 1508279101260
+2017-10-17T23:07:05.566751+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.566752+00:00 app[worker.1]: INFO: Thread started for notification: 1508279101323
+2017-10-17T23:07:05.568692+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.568695+00:00 app[worker.1]: INFO: Thread started for notification: 1508279320592
+2017-10-17T23:07:05.572010+00:00 app[worker.1]: Oct 17, 2017 11:07:05 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:05.572012+00:00 app[worker.1]: INFO: Thread started for notification: 1508279320667
+2017-10-17T23:07:06.268076+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.268101+00:00 app[worker.1]: INFO: Thread started for notification: 1508279372975
+2017-10-17T23:07:06.272196+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.272199+00:00 app[worker.1]: INFO: Thread started for notification: 1508279406304
+2017-10-17T23:07:06.274180+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.274182+00:00 app[worker.1]: INFO: Thread started for notification: 1508279418194
+2017-10-17T23:07:06.284748+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.284751+00:00 app[worker.1]: INFO: Thread started for notification: 1508279418744
+2017-10-17T23:07:06.287427+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.287429+00:00 app[worker.1]: INFO: Thread started for notification: 1508279708633
+2017-10-17T23:07:06.290403+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.290405+00:00 app[worker.1]: INFO: Thread started for notification: 1508279752498
+2017-10-17T23:07:06.296236+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.296239+00:00 app[worker.1]: INFO: Thread started for notification: 1508279754418
+2017-10-17T23:07:06.298705+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.307234+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.309359+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.309361+00:00 app[worker.1]: INFO: Thread started for notification: 1508280185555
+2017-10-17T23:07:06.311459+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.311461+00:00 app[worker.1]: INFO: Thread started for notification: 1508280293478
+2017-10-17T23:07:06.313576+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.313578+00:00 app[worker.1]: INFO: Thread started for notification: 1508280585171
+2017-10-17T23:07:06.315703+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.315705+00:00 app[worker.1]: INFO: Thread started for notification: 1508280632131
+2017-10-17T23:07:06.317823+00:00 app[worker.1]: INFO: Thread started for notification: 1508281029057
+2017-10-17T23:07:06.317820+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.319977+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.322146+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-17T23:07:06.319979+00:00 app[worker.1]: INFO: Thread started for notification: 1508281326754
+2017-10-17T23:07:06.298707+00:00 app[worker.1]: INFO: Thread started for notification: 1508279850582
+2017-10-17T23:07:06.307239+00:00 app[worker.1]: INFO: Thread started for notification: 1508279890346
+2017-10-17T23:07:06.322148+00:00 app[worker.1]: INFO: Thread started for notification: 1508281366894
+2017-10-17T23:07:06.323859+00:00 app[worker.1]: 28786420 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 33 analysis threads started.
+2017-10-17T23:07:06.324768+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.324770+00:00 app[worker.1]: INFO: Removing notification: 1508278041653
+2017-10-17T23:07:06.325869+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.325871+00:00 app[worker.1]: INFO: Removing notification: 1508278041709
+2017-10-17T23:07:06.326669+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.326671+00:00 app[worker.1]: INFO: Removing notification: 1508278048118
+2017-10-17T23:07:06.327508+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.327510+00:00 app[worker.1]: INFO: Removing notification: 1508278048539
+2017-10-17T23:07:06.328415+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.328416+00:00 app[worker.1]: INFO: Removing notification: 1508278056800
+2017-10-17T23:07:06.329208+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.329210+00:00 app[worker.1]: INFO: Removing notification: 1508278056822
+2017-10-17T23:07:06.329986+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.329987+00:00 app[worker.1]: INFO: Removing notification: 1508278056863
+2017-10-17T23:07:06.332991+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.332993+00:00 app[worker.1]: INFO: Removing notification: 1508278072596
+2017-10-17T23:07:06.334034+00:00 app[worker.1]: INFO: Removing notification: 1508278072608
+2017-10-17T23:07:06.334033+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.334977+00:00 app[worker.1]: INFO: Removing notification: 1508278072787
+2017-10-17T23:07:06.334975+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.335853+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.335856+00:00 app[worker.1]: INFO: Removing notification: 1508278073350
+2017-10-17T23:07:06.336790+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.336791+00:00 app[worker.1]: INFO: Removing notification: 1508278734167
+2017-10-17T23:07:06.337531+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.337533+00:00 app[worker.1]: INFO: Removing notification: 1508278734197
+2017-10-17T23:07:06.338330+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.338332+00:00 app[worker.1]: INFO: Removing notification: 1508279101260
+2017-10-17T23:07:06.339052+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.339054+00:00 app[worker.1]: INFO: Removing notification: 1508279101323
+2017-10-17T23:07:06.339697+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.339699+00:00 app[worker.1]: INFO: Removing notification: 1508279320592
+2017-10-17T23:07:06.341057+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.341059+00:00 app[worker.1]: INFO: Removing notification: 1508279320667
+2017-10-17T23:07:06.342026+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.342028+00:00 app[worker.1]: INFO: Removing notification: 1508279372975
+2017-10-17T23:07:06.344567+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.344568+00:00 app[worker.1]: INFO: Removing notification: 1508279406304
+2017-10-17T23:07:06.345408+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.345409+00:00 app[worker.1]: INFO: Removing notification: 1508279418194
+2017-10-17T23:07:06.346424+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.346425+00:00 app[worker.1]: INFO: Removing notification: 1508279418744
+2017-10-17T23:07:06.347307+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.347309+00:00 app[worker.1]: INFO: Removing notification: 1508279708633
+2017-10-17T23:07:06.363014+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.363017+00:00 app[worker.1]: INFO: Removing notification: 1508279752498
+2017-10-17T23:07:06.364684+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.364686+00:00 app[worker.1]: INFO: Removing notification: 1508279754418
+2017-10-17T23:07:06.365706+00:00 app[worker.1]: INFO: Removing notification: 1508279850582
+2017-10-17T23:07:06.365704+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.373249+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.373252+00:00 app[worker.1]: INFO: Removing notification: 1508279890346
+2017-10-17T23:07:06.374686+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.376396+00:00 app[worker.1]: INFO: Removing notification: 1508280293478
+2017-10-17T23:07:06.376394+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.377682+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.377683+00:00 app[worker.1]: INFO: Removing notification: 1508280585171
+2017-10-17T23:07:06.379151+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.374688+00:00 app[worker.1]: INFO: Removing notification: 1508280185555
+2017-10-17T23:07:06.380524+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.379152+00:00 app[worker.1]: INFO: Removing notification: 1508280632131
+2017-10-17T23:07:06.380526+00:00 app[worker.1]: INFO: Removing notification: 1508281029057
+2017-10-17T23:07:06.383719+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.383722+00:00 app[worker.1]: INFO: Removing notification: 1508281326754
+2017-10-17T23:07:06.385458+00:00 app[worker.1]: Oct 17, 2017 11:07:06 PM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-17T23:07:06.385460+00:00 app[worker.1]: INFO: Removing notification: 1508281366894
+2017-10-18T00:06:58.544968+00:00 app[worker.1]: 32378641 [main] INFO main.java.ie.fraser.findings.WorkerMain - Message Received: Sent at:1508285218541
+2017-10-18T00:06:58.542293+00:00 app[scheduler.1]: 32400241 [DefaultQuartzScheduler_Worker-10] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508285218541
+2017-10-18T00:07:03.899921+00:00 app[worker.1]: Loading classifier from /app/classifiers/english.all.3class.distsim.crf.ser.gz ... done [5.4 sec].
+2017-10-18T00:07:04.832828+00:00 app[worker.1]: Oct 18, 2017 12:07:04 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:04.832841+00:00 app[worker.1]: INFO: Thread started for notification: 1508281660398
+2017-10-18T00:07:04.836078+00:00 app[worker.1]: Oct 18, 2017 12:07:04 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:04.836080+00:00 app[worker.1]: INFO: Thread started for notification: 1508281756988
+2017-10-18T00:07:04.838396+00:00 app[worker.1]: Oct 18, 2017 12:07:04 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:04.838398+00:00 app[worker.1]: INFO: Thread started for notification: 1508282056182
+2017-10-18T00:07:04.840176+00:00 app[worker.1]: Oct 18, 2017 12:07:04 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:04.840178+00:00 app[worker.1]: INFO: Thread started for notification: 1508282105016
+2017-10-18T00:07:04.841992+00:00 app[worker.1]: Oct 18, 2017 12:07:04 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:04.841994+00:00 app[worker.1]: INFO: Thread started for notification: 1508282170464
+2017-10-18T00:07:04.843900+00:00 app[worker.1]: Oct 18, 2017 12:07:04 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:04.843902+00:00 app[worker.1]: INFO: Thread started for notification: 1508282289965
+2017-10-18T00:07:04.849390+00:00 app[worker.1]: Oct 18, 2017 12:07:04 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:04.849394+00:00 app[worker.1]: INFO: Thread started for notification: 1508282372618
+2017-10-18T00:07:04.853114+00:00 app[worker.1]: Oct 18, 2017 12:07:04 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:04.853116+00:00 app[worker.1]: INFO: Thread started for notification: 1508282478323
+2017-10-18T00:07:04.855682+00:00 app[worker.1]: Oct 18, 2017 12:07:04 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:04.855684+00:00 app[worker.1]: INFO: Thread started for notification: 1508282890983
+2017-10-18T00:07:04.857600+00:00 app[worker.1]: Oct 18, 2017 12:07:04 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:04.857602+00:00 app[worker.1]: INFO: Thread started for notification: 1508282939368
+2017-10-18T00:07:04.859445+00:00 app[worker.1]: Oct 18, 2017 12:07:04 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:04.859446+00:00 app[worker.1]: INFO: Thread started for notification: 1508283041168
+2017-10-18T00:07:05.592400+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:05.592411+00:00 app[worker.1]: INFO: Thread started for notification: 1508283162267
+2017-10-18T00:07:05.596729+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:05.596732+00:00 app[worker.1]: INFO: Thread started for notification: 1508283492781
+2017-10-18T00:07:05.599880+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:05.599883+00:00 app[worker.1]: INFO: Thread started for notification: 1508283541317
+2017-10-18T00:07:05.602724+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:05.602727+00:00 app[worker.1]: INFO: Thread started for notification: 1508283970562
+2017-10-18T00:07:05.605221+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:05.605224+00:00 app[worker.1]: INFO: Thread started for notification: 1508284305371
+2017-10-18T00:07:05.607959+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:05.607962+00:00 app[worker.1]: INFO: Thread started for notification: 1508284412293
+2017-10-18T00:07:05.611126+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:05.611129+00:00 app[worker.1]: INFO: Thread started for notification: 1508284571476
+2017-10-18T00:07:05.612013+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.612015+00:00 app[worker.1]: INFO: Removing notification: 1508284571476
+2017-10-18T00:07:05.613978+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:05.613981+00:00 app[worker.1]: INFO: Thread started for notification: 1508284583561
+2017-10-18T00:07:05.614310+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM edu.stanford.nlp.process.PTBLexer next
+2017-10-18T00:07:05.614311+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-18T00:07:05.620987+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:05.620990+00:00 app[worker.1]: INFO: Thread started for notification: 1508284747112
+2017-10-18T00:07:05.624403+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:05.624407+00:00 app[worker.1]: INFO: Thread started for notification: 1508284786510
+2017-10-18T00:07:05.628583+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:05.628586+00:00 app[worker.1]: INFO: Thread started for notification: 1508285121383
+2017-10-18T00:07:05.631570+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:07:05.631573+00:00 app[worker.1]: INFO: Thread started for notification: 1508285194278
+2017-10-18T00:07:05.638728+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM edu.stanford.nlp.process.PTBLexer next
+2017-10-18T00:07:05.638730+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-18T00:07:05.644426+00:00 app[worker.1]: 32385741 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 23 analysis threads started.
+2017-10-18T00:07:05.650893+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.650896+00:00 app[worker.1]: INFO: Removing notification: 1508281660398
+2017-10-18T00:07:05.652292+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.652293+00:00 app[worker.1]: INFO: Removing notification: 1508281756988
+2017-10-18T00:07:05.653290+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.653291+00:00 app[worker.1]: INFO: Removing notification: 1508282056182
+2017-10-18T00:07:05.654190+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.654191+00:00 app[worker.1]: INFO: Removing notification: 1508282105016
+2017-10-18T00:07:05.655145+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.655146+00:00 app[worker.1]: INFO: Removing notification: 1508282170464
+2017-10-18T00:07:05.664613+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.664616+00:00 app[worker.1]: INFO: Removing notification: 1508282289965
+2017-10-18T00:07:05.666373+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.666376+00:00 app[worker.1]: INFO: Removing notification: 1508282372618
+2017-10-18T00:07:05.677885+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.677889+00:00 app[worker.1]: INFO: Removing notification: 1508282478323
+2017-10-18T00:07:05.679192+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.679194+00:00 app[worker.1]: INFO: Removing notification: 1508282890983
+2017-10-18T00:07:05.680170+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.680171+00:00 app[worker.1]: INFO: Removing notification: 1508282939368
+2017-10-18T00:07:05.681191+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.681193+00:00 app[worker.1]: INFO: Removing notification: 1508283041168
+2017-10-18T00:07:05.682154+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.682156+00:00 app[worker.1]: INFO: Removing notification: 1508283162267
+2017-10-18T00:07:05.683273+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.683275+00:00 app[worker.1]: INFO: Removing notification: 1508283492781
+2017-10-18T00:07:05.684307+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.684309+00:00 app[worker.1]: INFO: Removing notification: 1508283541317
+2017-10-18T00:07:05.703530+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.703532+00:00 app[worker.1]: INFO: Removing notification: 1508283970562
+2017-10-18T00:07:05.708632+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.708635+00:00 app[worker.1]: INFO: Removing notification: 1508284305371
+2017-10-18T00:07:05.713430+00:00 app[worker.1]: Oct 18, 2017 12:07:05 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:05.713433+00:00 app[worker.1]: INFO: Removing notification: 1508284412293
+2017-10-18T00:07:07.167392+00:00 app[worker.1]: Oct 18, 2017 12:07:07 AM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-18T00:07:07.167411+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-18T00:07:07.168659+00:00 app[worker.1]: Oct 18, 2017 12:07:07 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:07.168661+00:00 app[worker.1]: INFO: Removing notification: 1508284583561
+2017-10-18T00:07:07.171320+00:00 app[worker.1]: Oct 18, 2017 12:07:07 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:07.171322+00:00 app[worker.1]: INFO: Removing notification: 1508284747112
+2017-10-18T00:07:07.172073+00:00 app[worker.1]: Oct 18, 2017 12:07:07 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:07.172075+00:00 app[worker.1]: INFO: Removing notification: 1508284786510
+2017-10-18T00:07:07.172698+00:00 app[worker.1]: Oct 18, 2017 12:07:07 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:07.172700+00:00 app[worker.1]: INFO: Removing notification: 1508285121383
+2017-10-18T00:07:08.164414+00:00 app[worker.1]: Oct 18, 2017 12:07:08 AM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-18T00:07:08.164425+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-18T00:07:08.165092+00:00 app[worker.1]: Oct 18, 2017 12:07:08 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:07:08.165094+00:00 app[worker.1]: INFO: Removing notification: 1508285194278
+2017-10-18T00:33:42.842223+00:00 heroku[worker.1]: Stopping all processes with SIGTERM
+2017-10-18T00:33:43.782722+00:00 heroku[worker.1]: Process exited with status 143
+2017-10-18T00:33:43.801497+00:00 heroku[worker.1]: State changed from up to down
+2017-10-18T00:33:43.802198+00:00 heroku[worker.1]: State changed from down to starting
+2017-10-18T00:33:49.877753+00:00 heroku[worker.1]: Starting process with command `java -Xms64m -Xmx256m -Xss228k -cp target/classes:target/dependency/* main.java.ie.fraser.findings.WorkerMain`
+2017-10-18T00:33:50.490765+00:00 heroku[worker.1]: State changed from starting to up
+2017-10-18T00:33:52.563129+00:00 app[worker.1]: Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF-8
+2017-10-18T00:39:45.365390+00:00 heroku[scheduler.1]: Stopping all processes with SIGTERM
+2017-10-18T00:39:45.721457+00:00 heroku[scheduler.1]: State changed from up to down
+2017-10-18T00:39:45.721983+00:00 heroku[scheduler.1]: State changed from down to starting
+2017-10-18T00:39:45.708642+00:00 heroku[scheduler.1]: Process exited with status 143
+2017-10-18T00:39:51.139934+00:00 heroku[scheduler.1]: Starting process with command `java -Xms64m -Xmx256m -Xss228k -cp target/classes:target/dependency/* main.java.ie.fraser.findings.SchedulerMain`
+2017-10-18T00:39:51.770005+00:00 heroku[scheduler.1]: State changed from starting to up
+2017-10-18T00:39:53.825837+00:00 app[scheduler.1]: Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF-8
+2017-10-18T00:39:54.689445+00:00 app[scheduler.1]: 500 [main] INFO org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2017-10-18T00:39:54.697186+00:00 app[scheduler.1]: 509 [main] INFO org.quartz.simpl.SimpleThreadPool - Job execution threads will use class loader of thread: main
+2017-10-18T00:39:54.867116+00:00 app[scheduler.1]: 679 [main] INFO org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2017-10-18T00:39:54.869119+00:00 app[scheduler.1]: 680 [main] INFO org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.1.5 created.
+2017-10-18T00:39:54.871507+00:00 app[scheduler.1]: 682 [main] INFO org.quartz.simpl.RAMJobStore - RAMJobStore initialized.
+2017-10-18T00:39:54.872792+00:00 app[scheduler.1]: 684 [main] INFO org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.1.5) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+2017-10-18T00:39:54.872794+00:00 app[scheduler.1]:   Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+2017-10-18T00:39:54.872795+00:00 app[scheduler.1]:   NOT STARTED.
+2017-10-18T00:39:54.872796+00:00 app[scheduler.1]:   Currently in standby mode.
+2017-10-18T00:39:54.872796+00:00 app[scheduler.1]:   Number of jobs executed: 0
+2017-10-18T00:39:54.872797+00:00 app[scheduler.1]:   Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+2017-10-18T00:39:54.872798+00:00 app[scheduler.1]:   Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+2017-10-18T00:39:54.873572+00:00 app[scheduler.1]: 
+2017-10-18T00:39:54.873720+00:00 app[scheduler.1]: 685 [main] INFO org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2017-10-18T00:39:54.873817+00:00 app[scheduler.1]: 685 [main] INFO org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.1.5
+2017-10-18T00:39:54.875598+00:00 app[scheduler.1]: 687 [main] INFO org.quartz.core.QuartzScheduler - Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2017-10-18T00:39:55.566076+00:00 app[worker.1]: 362717 [main] INFO main.java.ie.fraser.findings.WorkerMain - Message Received: Sent at:1508287195520
+2017-10-18T00:39:55.524574+00:00 app[scheduler.1]: 1336 [DefaultQuartzScheduler_Worker-1] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508287195520
+2017-10-18T00:40:01.865589+00:00 app[worker.1]: Loading classifier from /app/classifiers/english.all.3class.distsim.crf.ser.gz ... done [6.0 sec].
+2017-10-18T00:40:02.040084+00:00 app[worker.1]: Couldn't open cc.mallet.util.MalletLogger resources/logging.properties file.
+2017-10-18T00:40:02.040086+00:00 app[worker.1]:  Perhaps the 'resources' directories weren't copied into the 'class' directory.
+2017-10-18T00:40:02.040092+00:00 app[worker.1]:  Continuing.
+2017-10-18T00:40:02.093981+00:00 app[worker.1]: INFO: Thread started for notification: 1508285228190
+2017-10-18T00:40:02.093977+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:40:02.629169+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:40:02.629181+00:00 app[worker.1]: INFO: Thread started for notification: 1508285686825
+2017-10-18T00:40:02.640336+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:40:02.640337+00:00 app[worker.1]: INFO: Thread started for notification: 1508286019138
+2017-10-18T00:40:02.648740+00:00 app[worker.1]: INFO: Thread started for notification: 1508286118237
+2017-10-18T00:40:02.657653+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:40:02.657654+00:00 app[worker.1]: INFO: Thread started for notification: 1508286454514
+2017-10-18T00:40:02.666462+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:40:02.648738+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:40:02.672676+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:40:02.666464+00:00 app[worker.1]: INFO: Thread started for notification: 1508286550035
+2017-10-18T00:40:02.672678+00:00 app[worker.1]: INFO: Thread started for notification: 1508286887932
+2017-10-18T00:40:02.678606+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T00:40:02.678608+00:00 app[worker.1]: INFO: Thread started for notification: 1508286938550
+2017-10-18T00:40:02.682729+00:00 app[worker.1]: 369837 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 8 analysis threads started.
+2017-10-18T00:40:02.879580+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:40:02.879592+00:00 app[worker.1]: INFO: Removing notification: 1508285228190
+2017-10-18T00:40:02.890458+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:40:02.890460+00:00 app[worker.1]: INFO: Removing notification: 1508285686825
+2017-10-18T00:40:02.898499+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:40:02.898500+00:00 app[worker.1]: INFO: Removing notification: 1508286019138
+2017-10-18T00:40:02.904953+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:40:02.904957+00:00 app[worker.1]: INFO: Removing notification: 1508286118237
+2017-10-18T00:40:02.910889+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:40:02.910890+00:00 app[worker.1]: INFO: Removing notification: 1508286454514
+2017-10-18T00:40:02.917458+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:40:02.917460+00:00 app[worker.1]: INFO: Removing notification: 1508286550035
+2017-10-18T00:40:02.920447+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:40:02.920449+00:00 app[worker.1]: INFO: Removing notification: 1508286887932
+2017-10-18T00:40:02.923170+00:00 app[worker.1]: Oct 18, 2017 12:40:02 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T00:40:02.923172+00:00 app[worker.1]: INFO: Removing notification: 1508286938550
+2017-10-18T01:39:54.996112+00:00 app[scheduler.1]: 3600807 [DefaultQuartzScheduler_Worker-2] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508290794994
+2017-10-18T01:39:55.003550+00:00 app[worker.1]: 3962158 [main] INFO main.java.ie.fraser.findings.WorkerMain - Message Received: Sent at:1508290794994
+2017-10-18T01:39:58.414281+00:00 app[worker.1]: Loading classifier from /app/classifiers/english.all.3class.distsim.crf.ser.gz ... done [3.4 sec].
+2017-10-18T01:39:59.355386+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.355398+00:00 app[worker.1]: INFO: Thread started for notification: 1508287272359
+2017-10-18T01:39:59.370182+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.370184+00:00 app[worker.1]: INFO: Thread started for notification: 1508287311647
+2017-10-18T01:39:59.376513+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.376514+00:00 app[worker.1]: INFO: Thread started for notification: 1508287652311
+2017-10-18T01:39:59.382844+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.382846+00:00 app[worker.1]: INFO: Thread started for notification: 1508287750680
+2017-10-18T01:39:59.388952+00:00 app[worker.1]: INFO: Thread started for notification: 1508288006576
+2017-10-18T01:39:59.388951+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.394820+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.394822+00:00 app[worker.1]: INFO: Thread started for notification: 1508288103027
+2017-10-18T01:39:59.400691+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.415978+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.415980+00:00 app[worker.1]: INFO: Thread started for notification: 1508288403328
+2017-10-18T01:39:59.400693+00:00 app[worker.1]: INFO: Thread started for notification: 1508288362180
+2017-10-18T01:39:59.420296+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM edu.stanford.nlp.process.PTBLexer next
+2017-10-18T01:39:59.420297+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-18T01:39:59.440254+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.440257+00:00 app[worker.1]: INFO: Thread started for notification: 1508288462192
+2017-10-18T01:39:59.445927+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.445930+00:00 app[worker.1]: INFO: Thread started for notification: 1508288724688
+2017-10-18T01:39:59.451480+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.451482+00:00 app[worker.1]: INFO: Thread started for notification: 1508288776897
+2017-10-18T01:39:59.457281+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.457283+00:00 app[worker.1]: INFO: Thread started for notification: 1508288839380
+2017-10-18T01:39:59.458198+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM edu.stanford.nlp.process.PTBLexer next
+2017-10-18T01:39:59.458199+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-18T01:39:59.854472+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.854485+00:00 app[worker.1]: INFO: Thread started for notification: 1508289038967
+2017-10-18T01:39:59.860574+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T01:39:59.860575+00:00 app[worker.1]: INFO: Thread started for notification: 1508289138933
+2017-10-18T01:39:59.876651+00:00 app[worker.1]: 3967031 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 14 analysis threads started.
+2017-10-18T01:39:59.881055+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:39:59.881058+00:00 app[worker.1]: INFO: Removing notification: 1508287272359
+2017-10-18T01:39:59.886556+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:39:59.886558+00:00 app[worker.1]: INFO: Removing notification: 1508287311647
+2017-10-18T01:39:59.898346+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:39:59.898349+00:00 app[worker.1]: INFO: Removing notification: 1508287652311
+2017-10-18T01:39:59.903220+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:39:59.903222+00:00 app[worker.1]: INFO: Removing notification: 1508287750680
+2017-10-18T01:39:59.908144+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:39:59.908146+00:00 app[worker.1]: INFO: Removing notification: 1508288006576
+2017-10-18T01:39:59.912884+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:39:59.912886+00:00 app[worker.1]: INFO: Removing notification: 1508288103027
+2017-10-18T01:39:59.917737+00:00 app[worker.1]: Oct 18, 2017 1:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:39:59.917739+00:00 app[worker.1]: INFO: Removing notification: 1508288362180
+2017-10-18T01:40:02.020567+00:00 app[worker.1]: Oct 18, 2017 1:40:02 AM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-18T01:40:02.020578+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-18T01:40:02.028392+00:00 app[worker.1]: Oct 18, 2017 1:40:02 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:40:02.028394+00:00 app[worker.1]: INFO: Removing notification: 1508288403328
+2017-10-18T01:40:02.036219+00:00 app[worker.1]: Oct 18, 2017 1:40:02 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:40:02.036221+00:00 app[worker.1]: INFO: Removing notification: 1508288462192
+2017-10-18T01:40:02.041992+00:00 app[worker.1]: Oct 18, 2017 1:40:02 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:40:02.041994+00:00 app[worker.1]: INFO: Removing notification: 1508288724688
+2017-10-18T01:40:02.050670+00:00 app[worker.1]: Oct 18, 2017 1:40:02 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:40:02.050673+00:00 app[worker.1]: INFO: Removing notification: 1508288776897
+2017-10-18T01:40:04.821271+00:00 app[worker.1]: Oct 18, 2017 1:40:04 AM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-18T01:40:04.821281+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-18T01:40:04.822963+00:00 app[worker.1]: Oct 18, 2017 1:40:04 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:40:04.822964+00:00 app[worker.1]: INFO: Removing notification: 1508288839380
+2017-10-18T01:40:04.825584+00:00 app[worker.1]: Oct 18, 2017 1:40:04 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:40:04.825587+00:00 app[worker.1]: INFO: Removing notification: 1508289038967
+2017-10-18T01:40:04.828700+00:00 app[worker.1]: Oct 18, 2017 1:40:04 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T01:40:04.828702+00:00 app[worker.1]: INFO: Removing notification: 1508289138933
+2017-10-18T02:39:54.975797+00:00 app[worker.1]: 7562130 [main] INFO main.java.ie.fraser.findings.WorkerMain - Message Received: Sent at:1508294394977
+2017-10-18T02:39:54.978185+00:00 app[scheduler.1]: 7200790 [DefaultQuartzScheduler_Worker-3] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508294394977
+2017-10-18T02:39:57.840421+00:00 app[worker.1]: Loading classifier from /app/classifiers/english.all.3class.distsim.crf.ser.gz ... done [2.9 sec].
+2017-10-18T02:39:58.691793+00:00 app[worker.1]: Oct 18, 2017 2:39:58 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T02:39:58.691810+00:00 app[worker.1]: INFO: Thread started for notification: 1508292426552
+2017-10-18T02:39:58.692670+00:00 app[worker.1]: Oct 18, 2017 2:39:58 AM edu.stanford.nlp.process.PTBLexer next
+2017-10-18T02:39:58.692671+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-18T02:39:58.701706+00:00 app[worker.1]: 7565856 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 1 analysis threads started.
+2017-10-18T02:40:00.278161+00:00 app[worker.1]: Oct 18, 2017 2:40:00 AM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-18T02:40:00.278168+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-18T02:40:00.278759+00:00 app[worker.1]: Oct 18, 2017 2:40:00 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T02:40:00.278761+00:00 app[worker.1]: INFO: Removing notification: 1508292426552
+2017-10-18T03:39:54.996997+00:00 app[scheduler.1]: 10800808 [DefaultQuartzScheduler_Worker-4] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508297994996
+2017-10-18T03:39:54.992112+00:00 app[worker.1]: 11162147 [main] INFO main.java.ie.fraser.findings.WorkerMain - Message Received: Sent at:1508297994996
+2017-10-18T03:39:57.896017+00:00 app[worker.1]: Loading classifier from /app/classifiers/english.all.3class.distsim.crf.ser.gz ... done [2.9 sec].
+2017-10-18T03:39:59.163927+00:00 app[worker.1]: 11166318 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 1 analysis threads started.
+2017-10-18T03:39:59.150957+00:00 app[worker.1]: Oct 18, 2017 3:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T03:39:59.151788+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-18T03:39:59.150972+00:00 app[worker.1]: INFO: Thread started for notification: 1508295914537
+2017-10-18T03:39:59.151786+00:00 app[worker.1]: Oct 18, 2017 3:39:59 AM edu.stanford.nlp.process.PTBLexer next
+2017-10-18T03:40:01.125504+00:00 app[worker.1]: Oct 18, 2017 3:40:01 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T03:40:01.125506+00:00 app[worker.1]: INFO: Removing notification: 1508295914537
+2017-10-18T03:40:01.125008+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-18T03:40:01.124993+00:00 app[worker.1]: Oct 18, 2017 3:40:01 AM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-18T04:39:55.002652+00:00 app[scheduler.1]: 14400814 [DefaultQuartzScheduler_Worker-5] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508301595002
+2017-10-18T04:39:54.998314+00:00 app[worker.1]: 14762153 [main] INFO main.java.ie.fraser.findings.WorkerMain - Message Received: Sent at:1508301595002
+2017-10-18T04:39:57.739220+00:00 app[worker.1]: Loading classifier from /app/classifiers/english.all.3class.distsim.crf.ser.gz ... done [2.7 sec].
+2017-10-18T04:39:58.608331+00:00 app[worker.1]: Oct 18, 2017 4:39:58 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T04:39:58.608342+00:00 app[worker.1]: INFO: Thread started for notification: 1508299639081
+2017-10-18T04:39:58.608949+00:00 app[worker.1]: Oct 18, 2017 4:39:58 AM edu.stanford.nlp.process.PTBLexer next
+2017-10-18T04:39:58.608950+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-18T04:39:58.621398+00:00 app[worker.1]: 14765776 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 1 analysis threads started.
+2017-10-18T04:40:00.385983+00:00 app[worker.1]: Oct 18, 2017 4:40:00 AM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-18T04:40:00.385988+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-18T04:40:00.386300+00:00 app[worker.1]: Oct 18, 2017 4:40:00 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T04:40:00.386302+00:00 app[worker.1]: INFO: Removing notification: 1508299639081
+2017-10-18T05:39:55.004714+00:00 app[scheduler.1]: 18000816 [DefaultQuartzScheduler_Worker-6] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508305195004
+2017-10-18T05:39:55.003621+00:00 app[worker.1]: 18362158 [main] INFO main.java.ie.fraser.findings.WorkerMain - Message Received: Sent at:1508305195004
+2017-10-18T05:39:58.389695+00:00 app[worker.1]: Loading classifier from /app/classifiers/english.all.3class.distsim.crf.ser.gz ... done [3.4 sec].
+2017-10-18T05:39:59.184732+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T05:39:59.184749+00:00 app[worker.1]: INFO: Thread started for notification: 1508289138933
+2017-10-18T05:39:59.188279+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T05:39:59.188280+00:00 app[worker.1]: INFO: Thread started for notification: 1508301727299
+2017-10-18T05:39:59.189411+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T05:39:59.189413+00:00 app[worker.1]: INFO: Removing notification: 1508301727299
+2017-10-18T05:39:59.190329+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T05:39:59.190331+00:00 app[worker.1]: INFO: Thread started for notification: 1508301727628
+2017-10-18T05:39:59.191149+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T05:39:59.191151+00:00 app[worker.1]: INFO: Removing notification: 1508301727628
+2017-10-18T05:39:59.192064+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T05:39:59.192066+00:00 app[worker.1]: INFO: Thread started for notification: 1508301730264
+2017-10-18T05:39:59.207603+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T05:39:59.210383+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T05:39:59.210385+00:00 app[worker.1]: INFO: Removing notification: 1508302801032
+2017-10-18T05:39:59.207607+00:00 app[worker.1]: INFO: Thread started for notification: 1508302801032
+2017-10-18T05:39:59.211906+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T05:39:59.211907+00:00 app[worker.1]: INFO: Thread started for notification: 1508302805412
+2017-10-18T05:39:59.215785+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T05:39:59.215787+00:00 app[worker.1]: INFO: Thread started for notification: 1508302865233
+2017-10-18T05:39:59.611513+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T05:39:59.611529+00:00 app[worker.1]: INFO: Thread started for notification: 1508303226211
+2017-10-18T05:39:59.612243+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM edu.stanford.nlp.process.PTBLexer next
+2017-10-18T05:39:59.612244+00:00 app[worker.1]: WARNING: Untokenizable: ? (U+D83D, decimal: 55357)
+2017-10-18T05:39:59.621815+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T05:39:59.621818+00:00 app[worker.1]: INFO: Thread started for notification: 1508303400837
+2017-10-18T05:39:59.626084+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis run
+2017-10-18T05:39:59.626087+00:00 app[worker.1]: INFO: Thread started for notification: 1508303700272
+2017-10-18T05:39:59.629135+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T05:39:59.629137+00:00 app[worker.1]: INFO: Removing notification: 1508289138933
+2017-10-18T05:39:59.630278+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T05:39:59.627552+00:00 app[worker.1]: 18366782 [FirebaseDatabaseEventTarget] INFO main.java.ie.fraser.findings.WorkerMain - 10 analysis threads started.
+2017-10-18T05:39:59.630280+00:00 app[worker.1]: INFO: Removing notification: 1508301730264
+2017-10-18T05:39:59.631238+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T05:39:59.631240+00:00 app[worker.1]: INFO: Removing notification: 1508302805412
+2017-10-18T05:39:59.631916+00:00 app[worker.1]: Oct 18, 2017 5:39:59 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T05:39:59.631918+00:00 app[worker.1]: INFO: Removing notification: 1508302865233
+2017-10-18T05:40:01.129788+00:00 app[worker.1]: Oct 18, 2017 5:40:01 AM main.java.ie.fraser.findings.analysis.Analysis addStoryToRelevantContacts
+2017-10-18T05:40:01.129805+00:00 app[worker.1]: INFO: Adding story to phone contact: Emma Donaldson
+2017-10-18T05:40:01.130258+00:00 app[worker.1]: Oct 18, 2017 5:40:01 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T05:40:01.130260+00:00 app[worker.1]: INFO: Removing notification: 1508303226211
+2017-10-18T05:40:01.131244+00:00 app[worker.1]: Oct 18, 2017 5:40:01 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T05:40:01.131246+00:00 app[worker.1]: INFO: Removing notification: 1508303400837
+2017-10-18T05:40:01.132097+00:00 app[worker.1]: Oct 18, 2017 5:40:01 AM main.java.ie.fraser.findings.analysis.Analysis removeNotification
+2017-10-18T05:40:01.132098+00:00 app[worker.1]: INFO: Removing notification: 1508303700272
+2017-10-18T05:48:27.728898+00:00 app[worker.1]: Exception in thread "main" com.rabbitmq.client.ShutdownSignalException: connection error; reason: java.net.SocketException: Connection reset
+2017-10-18T05:48:27.728953+00:00 app[worker.1]: 	at com.rabbitmq.client.QueueingConsumer.handle(QueueingConsumer.java:198)
+2017-10-18T05:48:27.728982+00:00 app[worker.1]: 	at com.rabbitmq.client.QueueingConsumer.nextDelivery(QueueingConsumer.java:214)
+2017-10-18T05:48:27.729009+00:00 app[worker.1]: 	at main.java.ie.fraser.findings.WorkerMain.main(WorkerMain.java:57)
+2017-10-18T05:48:27.729209+00:00 app[worker.1]: Caused by: java.net.SocketException: Connection reset
+2017-10-18T05:48:27.729239+00:00 app[worker.1]: 	at java.net.SocketInputStream.read(SocketInputStream.java:210)
+2017-10-18T05:48:27.729261+00:00 app[worker.1]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+2017-10-18T05:48:27.729292+00:00 app[worker.1]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+2017-10-18T05:48:27.729319+00:00 app[worker.1]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+2017-10-18T05:48:27.729346+00:00 app[worker.1]: 	at java.io.DataInputStream.readUnsignedByte(DataInputStream.java:288)
+2017-10-18T05:48:27.729376+00:00 app[worker.1]: 	at com.rabbitmq.client.impl.Frame.readFrom(Frame.java:95)
+2017-10-18T05:48:27.729431+00:00 app[worker.1]: 	at com.rabbitmq.client.impl.SocketFrameHandler.readFrame(SocketFrameHandler.java:131)
+2017-10-18T05:48:27.729464+00:00 app[worker.1]: 	at com.rabbitmq.client.impl.AMQConnection$MainLoop.run(AMQConnection.java:501)
+2017-10-18T06:39:54.971981+00:00 app[scheduler.1]: 21600783 [DefaultQuartzScheduler_Worker-7] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508308794971
+2017-10-18T07:39:54.988901+00:00 app[scheduler.1]: 25200800 [DefaultQuartzScheduler_Worker-8] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508312394988
+2017-10-18T08:39:54.998283+00:00 app[scheduler.1]: 28800810 [DefaultQuartzScheduler_Worker-9] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508315994997
+2017-10-18T09:39:54.997523+00:00 app[scheduler.1]: 32400809 [DefaultQuartzScheduler_Worker-10] INFO main.java.ie.fraser.findings.SchedulerMain - Message Sent: Sent at:1508319594997

@@ -6,6 +6,7 @@ main\java\ie\fraser\findings\analysis\Analysis.class
 main\java\ie\fraser\findings\analysis\Analysis$2.class
 main\java\ie\fraser\findings\analysis\KeywordExtractionService.class
 main\java\ie\fraser\findings\models\CompareContactSimilarity.class
+main\java\ie\fraser\findings\WorkerMain$2.class
 main\java\ie\fraser\findings\models\StoryOptions.class
 main\java\ie\fraser\findings\models\Story.class
 main\java\ie\fraser\findings\utils\FirebaseManager.class
