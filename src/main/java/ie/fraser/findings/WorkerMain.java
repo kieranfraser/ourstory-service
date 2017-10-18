@@ -53,11 +53,11 @@ public class WorkerMain {
         	      throws IOException {
         	    String message = new String(body, "UTF-8");
                 logger.info("Message Received: " + message);
-                /*try {
+                try {
 					doWork();
 				} catch (ClassCastException | ClassNotFoundException e) {
 					logger.error("doWork() not launched");
-				}*/
+				}
                 
                 channel.basicAck(envelope.getDeliveryTag(), false);
         	  }
